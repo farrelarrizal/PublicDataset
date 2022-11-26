@@ -1,0 +1,799 @@
+id_text,id_forum,text,type,tagger,pasien,usia_pasien,penyakit,gejala,kapan,periode,tindakan,outcome,pertanyaan,pembuka,penyebab,prakondisi,objek,penutup,referensi,artikel,observasi
+1,1,"Selamat siang dokter, ibu saya sering kaget kadang juga nyeri didada jika kaget",q,f,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,", Apakah itu ciri-ciri terkena jantung lemah ya dok? Solusinya seperti apa ya dok? kami keluarga takut dan cemas jika ibu terkena jantung lemah dokter",q,f,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,2,"Penyakit jantung terdiri dari berbagai macam seperti gagal jantung, kemudian pembuluh jantung tersumbat sehingga menyebabkan nyeri dada angina, penyakit katup jantung, pembengkakan jantung dan sebagainya",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,2,"Setiap jenis penyakit jantung tersebut dapat menyebabkan keluhan berbeda seperti sesak napas, mudah lelah, nyeri dada, kaki bengkak, batuk, dan sebagainya",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5,2,Oleh karena terdapat berbagai jenis penyakit jantung maka mengeluhkan nyeri dada saja tidak bisa dipastikan apakah itu merupakan penyakit jantung atau tidak,a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6,2,Perlu dilakukan pemeriksaan lebih lanjut,a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+7,3,"Alo Dok, Saya rutin mengkonsumsi obat-obatan dalam rangka gagal jantung",q,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,3,"Saat ini bisoprolol, ramipril, clopidogrel, nospirinal, simvastatin, spironolactone, dan uperio",q,f,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+9,3,"Seringkali detak jantung saya adalah 50-an, bahkan kadang sampai di bawah 50",q,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,"Apakah ini terlalu rendah? Saya baca-baca, normalnya di atas 60",q,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11,3,Ini sepertinya hanya terjadi saat saya duduk atau tidur,q,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,3,"Kalau berdiri, detak jantung kembali ke 60-80",q,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,3,"Saya sih sepertinya tidak merasakan tanda-tanda bahaya seperti sakit dada, kebingungan, sesak, pusing, dan sejenisnya, walau agak susah juga menentukannya karena beberapa tanda tersebut dalam intensitas rendah saat ini sudah ""biasa"" saya rasakan (sejak serangan jantung & didiagnosa gagal jantung)",q,f,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+14,3,"Mohon informasinya, terima kasih",q,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,4,"Alo Radia, Terima kasih atas pertanyaannya",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16,4,Detak jantung manusia normalnya berkisar antara 60-100 detak per menit,a,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,4,Detak jantung di bawah 60 memang tergolong detak jantung yang tidak normal atau lebih lambat,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,4,"Namun, dalam kondisi Anda, kemungkinan besar ini karena efek samping penggunaan obat bisoprolol",a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+19,4,"Selama Anda mengkonsumsi obat sesuai anjuran dokter, kontrol teratur ke dokter jantung, dan tidak ada keluhan seperti pusing, sakit dada, sesak napas, maka umumnya kondisi ini hanya perlu dimonitor saja",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+20,4,Yang membahayakan adalah apabila dengan kondisi detak jantung yang rendah ini Anda mengalami gejala lain yang disebutkan di atas,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,4,"Dalam kondisi tersebut, Anda dianjurkan untuk segera mengunjungi IGD rumah sakit terdekat agar dapat segera diperiksa dan diberikan penanganan yang sesuai",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+22,4,"Untuk saat ini, silakan Anda tetap konsumsi obat sesuai dengan dosis yang dianjurkan oleh dokter dan jangan lupa kontrol teratur ke dokter jantung Anda",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+23,4,Hindari juga aktivitas fisik yang berlebihan,a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+24,4,Semoga membantu,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+25,5,"dok, saya mau bertanya, apa sakit yang akan dialami seseorang ketika mengidap penyakit gagal jantung? apakah dia diharuskan untuk transplantasi jantung? dan bila harus, apa syarat syarat nya dok?",q,f,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+26,6,Terima kasih atas pertanyaannya.,q,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+27,6,Gagal jantung merupakan kondisi dimana jantung mengalami gangguan dalam dalam memompa aliran darah,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,6,"Gagal jantung dapat disebabkan oleh berbagai kondisi seperti mengalamipenyakit jantung koroner, riwayat hipertensi, diabetes, kerusakan otot jantung, radang otot jantung, gangguan irama jantung, anemia dan sebagainya",a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+29,6,"Risiko gagal jantung meningkat pada seseorang yang obesitas, riwayat merokok, kebiasaan makan-makanan berlemak dan tinggi kolestrol, kurang melakukan aktivitas fisik dan sebagainya",a,f,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+30,6,"Seseorang yang mengalami gagal jantung dapat merasakan gejala seperti sesak napas, batuk, bengkak pada bagian tubuh seperti kaki, lemas, dan sebagainya",a,f,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,6,"Untuk mengetahui apakah gejala tersebut disebabkan karena gagal jantung, maka perlu dilakukan pemeriksaan ke dokter agar dokter dapat melakukan pemeriksaan berupa wawancara keluhan, pemeriksaan fisik untuk melihat tanda gagal jantung, serta pemeriksaan penunjang seperti rontgen, pemeriksaan rekam jantung, dan sebagainya",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,6,"Mengenai pengobatan yang dilakukan, hal tersebut terutama untuk mengurangi beban kerja jantung",a,f,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33,6,"Pengobatan yang dapat diberikan seperti obat-obatan, operasi misalnya pemasangan ring jantung, implan jantung, hingga transplantasi",a,f,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+34,6,Pengobatan yang dipilih disesuaikan dengan derajat beratnya gagal jantung dan kondisi penyerta yang dimiliki,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,6,"Pada umumnya, pemberian obat-obatan akan dilakukan terlebih dahulu karena prosedur seperti operasi memerlukan persiapan yang panjang misalnya pada donor perlu dilakukan pemeriksaan untuk mengetahui kecocokannya",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,6,"Sementara itu sebaiknya melakukan konsultasi ke dokter untuk mengetahui kondisi yang dialami saat ini, serta menjaga kesehatan dengan menjaga makanan yang rendah lemak dan kolestrol, tidak kelelahan, dan sebagainya",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+37,7,"Ibu saya usia 54 tahun kata dokter ibu sya mengidap penyakit gagal jantung ringan dan kanker paru, udh hampir 2 bulan dy selalu pakai oksigen apakh org yg terkena kanker paru bisa bebas dri oksigen atau selamanya akan ketergntungan",q,f,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+38,8,"Selamat malam, terima kasih telah bertanya di Alodokter",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+39,8,Orang yang mengalami kanker paru dan gagal jantung tidak selalu membutuhkan bantuan oksigen,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,8,Hanya sebagian orang tertentu dengan tingkat keparahan tertentu dimana sistem pernapasannya terganggu dalam fungsinya menangkap oksigen yang membutuhkan bantuan oksigen,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,8,"Kondisi keparahan ini tidak selalu permanen, ada yang pada akhirnya kondisinya membaik dan tidak membutuhkan oksigen lagi, dan ada juga yang kondisinya lalu memburuk sampai membutuhkan alat bantu napas di ruang ICU",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,8,Tidak ada yang bisa meramalkan ke arah mana kondisi penyakit suatu pasien akan berujung,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,8,"Dokter hanya bisa memperkirakan harapan kesembuhan dan opsi penanganan apa yang dimiliki dari kesimpulan klinis yang dimilikinya sekarang, berdasarkan berbagai data klinis seperti hasil lab, rontgen, CT scan, perluasan penyakit, dan respon tubuh terhadap pengobatan",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,8,"Maka memang terkait ibu Anda, yang paling bisa memberikan informasi dengan akurat adalah dokter onkologi/kanker atau dokter paru yang merawatnya sekarang",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,8,"Saran kami, sebaiknya pihak keluarga melakukan diskusi dengan dokter mengenai kondisi yang dialami ibu Anda dan target penanganan kedepannya serta apa saja yang bisa diharapkan, untuk menghindari kebingungan dan kesalahpahaman",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+46,8,"Sekian, semoga menjawab pertanyaan Anda",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+47,9,"Hallo dok saya mau bertanya papah saya punya riwayat paru dan jantung,setiap kali jalan lama maupun sedikit selalu terasa cape kalo boleh tau obat nya apa ya dok,solusi agar tidak mudah cape🙏",q,f,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+48,10,Terima kasih atas pertanyaannya di Alodokter,a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+49,10,Perlu diperjelas riwayat penyakit parunya apa dan riwayat penyakit jantungnya apa,a,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+50,10,"Dari uraian Anda, ada keluhan mudah lelah",a,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,10,Hal ini umum terjadi pada pasien dengan gagal jantung,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,10,"Gagal jantung sering terjadi akibat hipertensi (tekanan darah tinggi) yang tidak terkontrol (tidak pernah minum obat dari dokter secara rutin dan tidak kontrol ke dokter, atau hanya membeli obat secara sembarangan di apotek tanpa resep dokter)",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,10,Hipertensi membuat jantung terpaksa harus bekerja lebih keras untuk melawan tekanan darah yang tinggi dan memompa darah ke seluruh tubuh,a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+54,10,"Bila sudah mengalami gagal jantung, tidak bisa kembali menjadi seperti saat sebelum mengalami gagal jantung",a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+55,10,Hal yang bisa dilakukan adalah membantu meringankan gejalanya dan mencegah agar penyakitnya tidak bertambah berat,a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+56,10,"Caranya adalah dengan memeriksakan diri ke dokter spesialis jantung dan pembuluh darah secara langsung karena pada setiap orang yang mengalami gagal jantung, ada tingkat keparahan yang berbeda-beda dan juga tergantung pada kondisi pasien sehingga pengobatannya pun bisa berbeda-beda",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+57,10,Pilihan obat yang bisa diberikan juga sangat banyak dan harus disesuaikan dengan kondisi,a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+58,10,Tidak ada satu obat yang bisa diberikan untuk semua orang,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,10,"Yang bisa dilakukan sendiri di rumah adalah membantu mengurangi beban jantung dengan membatasi asupan natrium atau garam (maksimum setengah sendok teh per hari), membatasi cairan (tidak melebihi 2,5 liter per hari), dan mengurangi aktivitas",a,f,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+60,10,"Selain itu, segera pergi berobat ke dokter spesialis jantung dan pembuluh darah untuk mendapatkan obat yang sesuai dengan kondisi ayah Anda",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+61,10,Hindari membeli obat-obatan sendiri yang bukan dari anjuran dokter,a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+62,10,Semoga membantu,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+63,11,"Halo dok 2 hari ini saya keringat dingin di kepala, leher, sampai badan",q,f,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+64,11,Saya juga jadi gampang capek dan kadang sesak nafas dan Kaki terasa dingin,q,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,11,Apakah ada hubungan nya dgn penyakit jantung? Saya juga ada batu empedu dok,q,f,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+66,11,Apa yg harus saya lakukan,q,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+67,12,"Alo, Terima kasih atas pertanyaannya",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+68,12,"Sering merasa keringat dingin di beberapa bagian tubuh, gampang capek, kadang sesak napas, kaki terasa dingin dengan adanya riwayat batu empedu dapat disebabkan oleh beberapa kemungkinan, seperti Gagal jantung, Tekanan darah rendah, Anemia, Fibromyalgia",a,f,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,12,"Apabila keluhan ini terjadi terus menerus dalam 1 minggu belakangan ini, sebaiknya periksakan diri Anda ke dokter, ya",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+70,12,"Dokter akan menanyakan riwayat keluhan secara lengkap, melakukan pemeriksaan fisik, dan pemeriksaan penunjang yang relevan seperti tes darah lengkap, rontgen dada, maupun EKG, sehingga dokter dapat menentukan penyebab kondisi yang Anda alami dan memberikan terapi yang sesuai",a,f,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+71,12,"Untuk sementara waktu, identifikasi faktor pemicu dari keluhan, istirahat yang cukup, minum air putih 2-3 liter per hari, tidak merokok, dan mengelola stres dengan baik",a,f,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+72,12,Semoga informasi ini dapat membantu dan semoga lekas sembuh ya,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+73,13,"Mau bertanya dok ketika sesorang terkena gagal jantung ( heart failure) , darah yang berbalik kembali ke paru- paru karena ketidakmampuan jantung untuk memompa akan menyebabkan terjadinya penyakit atau gangguan seperti apa ya dok? Dan untuk gejalanya bagaimana?",q,f,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+74,14,"Alo, terimakasih atas pertanyaannya",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+75,14,"Jantung adalah organ yang vital fungsinya dalam memompa darah kaya oksigen dari paru ke seluruh tubuh, dan memompa darah kaya karbondioksida kembali ke paru",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,14,"Gangguan kronis pada jantung, terutama karena penyakit jantung koroner, serangan jantung, gangguan katup jantung, kardiomiopati, miokarditis, aritmia, hingga penyakit pada sistem organ lain yang mempengaruhi kerja jantung (seperti hipertiroidisme, hemokromatosis, diabetes), jika tidak tertangani dengan baik, bisa memicu komplikasi berupa gagal jantung",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,14,"Berdasarkan perjalanan penyakitnya, gagal jantung diklasifikasikan menjadi beberapa jenis",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,14,Adapun jenis gagal jantung yang sering membuat masalah di paru adalah gagal jantung sisi kiri,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,14,"Kondisi ini terjadi ketika jantung gagal memompa darah dengan optimal, sehingga membuat aliran darah berbalik dan menumpuk (kongesti) di paru",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+80,14,"Imbasnya, cairan bisa menumpuk pada kantung-kantung udara di paru (alveoli) sehingga menyebabkan edema paru, yang ditandai dengan sesak napas, batuk terkadang disertai darah, mengi, lemas, berkeringat dingin, gelisah, bibir dan kuku kebiruan, jantung berdebar, dan beragam sensasi tidak nyaman lainnya yang angat mengganggu aktifitas",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,14,"Lebih lanjut, kondisi ini bisa juga memicu terjadinya pneumonia, emboli paru, efusi pleura, hingga gagal napas yang amat mematikan",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,14,"Karenanya, sebelum memicu komplikasi lain yang serius, penderita gagal jantung sepatutnya diperiksakan langsung ke dokter, dokter jantung, atau dokter penyakit dalam, sehingga kondisinya bisa dievaluasi lantas ditangani dengan optimal",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+83,14,Semoga membantu ya,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+84,15,"siang dok, temen saya lagi tidur tiba2 kayak sesak napas dadanya ngangkat sambil mulut kebuka kayak di film2 horror, trus saya tekan dadanya akhirnya sadar, itu kira2 sakit apa ya? dan solusinya gimana",q,f,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0
+85,16,"Alo, teriakasih atas pertanyaannya",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+86,16,"Tampak seperti kesulitan bernapas, hingga dada terangkat dan mulut membuka saat tidur bisa terjadi murni karena mimpi buruk, namun bisa juga karena pencetus lain, misalnya paralisis tidur, apnea tidur, refluks asam lambung, asma, gagal jantung kongestif, alkoholisme, efek samping pengobatan, dan banyak lagi gangguan medis lainnya",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+87,16,"Perlu diperjelas, apakah keluhan seperti ini muncul juga saat ia terjaga? Adakah keluhan lain yang muncul? Kondisi seperti yang dialami rekan Anda tersebut bisa jadi berbahaya, bisa juga tidak, tergantung dari penyebabnya",a,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+88,16,"Saran kami, jika Anda kerap mengalami keluhan seperti ini berulang terus hingga mengganggu kualitas tidurnya, cobalah himbau rekan Anda agar pergi memeriksakan diri ke dokter atau dokter syaraf supaya bisa dievaluasi mendalam, seperti lewat pemeriksaan fisik, polisomnografi, wawancara psikiatrik, dan sebagainya",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+89,16,"Dari sini, barulah bisa ditentukan penyebab keluhannya, dan penanganan seperti apa juga yang perlu dilakukan untuk mengatasinya",a,f,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+90,16,"Sementara ini, baiknya Anda himbau dulu rekan Anda agar: Budayakan tidur dan bangun teratur setiap hari, jangan tidur kurang dari 6-7 jam, kecuali jika sangat mendesak sekali Tingkatkan kualitas tidur dengan rutin berolahraga, berelaksasi, jangan makan berlebihan saat akan tidur, kondisikan lingkungan tidur agar nyaman (tidak bising, silau, terlalu panas atau terlalu dingin) Berdoa sebelum tidur, agar dijauhkan dari mimpi buruk dan hal tidak menyenangkan lainnya Bijak mengelola stres dan kecemasan Tidak merokok, jauhi juga alkohol dan NAPZA Jaga berat badan agar ideal Tidak sembarangan minum obat atau suplemen",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+91,17,"Sore dok, saya abel umur 22th, saya divonis sakit jantung september 2020, awal saya sakit kaki saya bengkak, disitu saya belum tau sakit jantung, dokter bilang ginjal, di cek ginjal saya ga kenapa2, udah minum obat rutin 6bulan belakang, ada obat bengkak juga, setelah 3bulanan minum obat kaki saya sudah tidak bengkak, 2bulan terakhir ga ngerasain bengkak lagi",q,f,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+92,17,"Saya coba tes kerja di Salah satu PT, yang mengharuskan berdiri 8jam, baru hari pertama kerja kaki saya kembali bengkak, sama seperti awal gejala sakitnya,Apa saya gabisa kerja di PT ya ? Penyebabnya apa dok bengkak balik lagi",q,f,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+93,18,"Alo, terima kasih sudah bertanya di Alodokter",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+94,18,Apakah yang dimaksud dengan penyakit jantung anda adalah penyakit gagal jantung? Bengkak atau dikenal sebagai edema terjadi akibat penumpukan cairan di ruang yang berada di anatra sel,a,f,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+95,18,Pada dasarnya bengkak dapat terjadi pada seluruh bagian tubuh terutama pada lengan dan tungkai,a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+96,18,Kondisi ini dapat terjadi akibat beragam hal salah satunya pada gagal jantung,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,18,Pada saat jantung mulai gagal berfungsi secara normal maka satu atau bahkan kedua bilik jantung tersebut akan kehilangan kemampuan memompa darah secara efektif,a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+98,18,"Akibatnya cairan akan mengalami penumpukan secara perlahan dan menyebabkan timbulnya edema (pembengkakan) bisa pada tungkai (kaki), paru-paru, maupun perut",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,18,Kondisi inilah yang mungkin saja mendasari keluhan yang anda alami saat ini,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,18,Namun untuk memastikannya perlu dilakukan pemeriksaan lebih lanjut,a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+101,18,Oleh karena itu sebaiknya kembali periksakan kondisi anda pada dokter jantung anda guna pemeriksaan dan penanganan lebih lanjut,a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+102,18,"Guna menghindari kondisi tersebut berulang sebaiknya hindari melakukan aktivitas berat secara berlebihan, jangan berdiri atau duduk terlalu lama, serta lakukan kontrol secara rutin",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+103,18,"Sekian, semoga membantu",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+104,19,"Halo dok, sebelumnya saya memiliki riwayat penyakit jantung yaitu CHF dan penumpukan cairan pada paru² sehingga membutuhkan perawatan intensif selama kurang lebih 2minggu",q,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+105,19,Setelah itu saya sempat melakukan rawat jalan selama 3 bulan,q,f,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+106,19,"Lalu stop, karena kondisi RS tersebut berjarak 1jam dari rumah",q,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+107,19,"Dan 6 bulan setelah saya berhenti melakukan rawat jalan, saya sering merasakan nyeri pada dada, terlebih ketika terkejut, atau kelelahan",q,f,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+108,19,Apakah ini efek penyakit yg saya derita atau karena hal lain dok?,q,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+109,19,Terimakasih,q,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+110,20,"Alo, terima kasih atas pertanyaan Anda di Alodokter",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+111,20,Perkenalkan saya dr Iranita akan mencoba menjawab,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,20,CHF atau congestive heart failure atau gagal jantung kongestif merupakan kegagalan jantung dalam memompa darah yang dibutuhkan tubuh,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,20,Hal ini disebabkan oleh otot jantung yang sudah melemah sehingga tidak dapat bekerja secara normal,a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+114,20,"Gejala yang muncul pada CHF pada tahap awal biasanya tidak berdampak pada kondisi umum, tetapi seiring memburuknya kondisi, gejala tersebut akan semakin dirasakan pasien",a,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,20,Terdapat beberapa tahapan CHF dengan gejala yang berbeda-beda,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,20,"Pada tahap awal pasien akan mengalami: Pembengkakan kaki Mudah lelah terutama saat beraktivitas Kenaikan berat badan yang signifikan dalam waktu yang singkat Sering buang air kecil terutama saat malam hari Tahap berikutnya, gejala yang dialami: Denyut jantung tidak teratur Batuk karena pembengkakan paru Napas berbunyi mengi Sesak napas, muncul saat beraktivitas atau saat berbaring Tubuh sangat lelah walapun hanya melakukan aktivitas ringan Pada tahap yang parah, pasien akan mengalami gejala berupa: Nyeri dada menjalar sampai ke lengan kiri, leher kiri, punggung, disertai sesak, mual, dan keringat dingin",a,f,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,20,"Apabila hal ini terjadi, dapat menandakan adanya serangan jantung Kulit menjadi kebiruan karena paru-paru kekurangan oksigen Napas cepat dan pendek Pingsan Gejala tersebut dirasakan bahkan saat pasien sedang beristirahat Gejala berat tersebut merupakan tanda bahaya sehingga Anda perlu memeriksakan diri segera ke rumah sakit",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+118,20,Pasien dengan CHF harus mengonsumsi obat-obatan setiap hari untuk mengendalikan cairan yang menumpuk di tubuh dan paru-paru serta mengontrol tekanan darah,a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+119,20,Kunjungan ke dokter jantung dilakukan tergantung dari derajat keparahan CHF itu sendiri,a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+120,20,CHF ringan - sedang dapat berkunjung ke dokter jantung dalam hitungan 3 bulan selama tidak ada gejala tambahan,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,20,"Jika Anda mengalami gejala seperti kaki bengkak, pusing, sesak, nyeri dada, Anda perlu memeriksakan diri Anda segera ke dokter jantung",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+122,20,Dokter jantung akan memutuskan apakah Anda memerlukan rawat inap atau rawat jalan,a,f,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+123,20,"Selain itu, jika Anda juga memiliki penyakit lain seperti diabetes, Anda perlu memeriksakan diri setiap bulan sampai kondisi stabil",a,f,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+124,20,Obat-obatan yang Anda biasa konsumsi juga dapat ditambah atau diubah tergantung dari pengamatan dokter terhadap kondisi Anda secara menyeluruh,a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+125,20,"Sebagai tambahan, jika rumah sakit yang Anda kunjungi dirasa terlalu jauh, Anda dapat mengunjungi rumah sakit yang lebih dekat dari rumah Anda dengan catatan Anda perlu membawa berkas-berkas riwayat sebelumnya serta obat-obatan yang diminum sehingga dokter jantung Anda yang baru dapat mengerti secara menyeluruh tentang kondisi Anda",a,f,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+126,21,"Malam dok,,hari ini saya dapat kabar kali anak saya yg berusia 16tahun menderita gagal jantung,dan ada pembengkakan di kedua kakinya",q,f,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,21,"apakah masih bisa sembuh dok,,apa yg harus saya lakukan dok,,mohon maaf dok,karena anak saya berada jauh dari saya dok,,dia ada di Jogja dan saya di tangerang",q,f,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+128,22,"Hai, Ervina Terima kasih atas pertanyaannya di Alodokter",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+129,22,Gagal jantung adalah kondisi lemahnya pompa jantung sehingga pompa jantung tidak cukup mengalirkan darah ke seluruh tubuh,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,22,"Gagal jantung dapat disebabkan oleh kelainan anatomi jantung, hipertensi, anemia, dan lain-lain",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+131,22,"Gejala yang paling sering muncul pada gagal jantung adalah sesak napas, sering merasa lelah, pembengkakan kaki, sering terbangun malam hari saat sedang tidur karena sesak, tidak mampu berjalan jauh atau menaiki tangga, dan lain-lain",a,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,22,Gejala ini muncul secara bertahap,a,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,22,Prinsip pengobatan gagal jantung adalah mengurangi gejala dan membantu meningkatkan kekuatan jantung,a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+134,22,Sangat sulit untuk mengembalikan fungsi jantung seperti semula,a,f,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+135,22,Obat-obatan untuk mengurangi gejala sebaiknya terus dikonsumsi sesuai dengan anjuran dokter,a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+136,22,"Pasien diharapkan bisa menerapkan gaya hidup sehat, mengurangi konsumsi garam (agar tidak hipertensi), menjaga berat badan ideal, membatasi aktivitas berat, rajin berolah raga ringan, dan disarankan memeriksakan diri rutin ke dokter",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+137,22,"Pada setiap penderita gagal jantung, kondisinya dapat berbeda-beda",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,22,"Saran dari saya, sebaiknya Anda berkonsultasi secara langsung dengan dokter yang telah memeriksa anak Anda terutama terkait program pengobatannya",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+139,22,Semoga membantu,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+140,23,"Maaf dokter saya mau tanya ,Ibu berusia 62 tahun memiliki penyakit Gagal jantung",q,f,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+141,23,kadang denyutnya di bawah 60/menit,q,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,23,apakah detak jantung di bawah 60 kali per menit itu bahaya???,q,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+143,23,apa Efek sampingnya???,q,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+144,23,Terima kasih Dokter,q,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+145,24,"Salam Alodokter, Terima kasih sudah bertanya di Alodokter",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+146,24,"Adanya riwayat gagal jantung yang dialami ibu Anda, dengan detak jantung di bawah 60x/menit merupakan kondisi payah jantung dengan bradikardi",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+147,24,"Bradikardi sebagai gambaran dimana detak jantung pasien kurang dari 60x/menit, yang berimplikasi terhadap suplai darah untuk tubuh pasien",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,24,"Bila suplai darah menurun, maka fungsi sistem tubuh juga akan terganggu",a,f,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+149,24,"Oleh karena itu, adanya gagal jantung dan bradikardia perlu ditangani oleh dokter jantung seoptimal mungkin untuk mencegah komplikasi yang tidak diharapkan",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+150,24,"Pada umumnya, detak jantung manusia yang normal berkisar 60-100x permenit",a,f,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+151,24,Bila detak jantung manusia lebih dari 100x/menit disebut juga dengan takikardia,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,24,Sedangkan bila detak jantung kurang dari 60x/menit disebut juga bradikardia,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,24,"Pasien dengan bradikardia dapat terjadi secara normal sebagai respon tubuh untuk menyesuaikan diri terhadap kondisi klinisnya, seperti pada olah ragawan, dimana detak jantung olah ragawan dapat berada di bawah 60x/menit namun hal ini normal untuk dia",a,f,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+154,24,"Sedangkan pada manusia secara umum, detak jantung dibawah 60x/menit akan memberikan dampak klinis yang bermakna bagi pasien, seperti Pusing, Sakit kepala, Keringat dingin, Sesak nafas, Pucat, Pingsan, Lemas Keluhan-keluhan ini muncul karena tubuh tidak dapat mengkompensasi kurangnya suplai oksigen atau darah pada saat detak jantung berada di bawah normal",a,f,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+155,24,"Sehingga, setiap sistem tubuh akan memberikan respon yang tidak nyaman bagi pasien sampai pingsan",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,24,"Sedangkan penyebab dari bradikardia dapat dipicu oleh Penyakit jantung, serangan jantung, Kalium darah berlebihan, Efek samping obat, Tekanan darah rendah, Hipotiroidisme atau kadar hormon tiroid yang rendah Dengan demikian, adanya bradikardia yang terjadi seperti yang dialami oleh orang tua Anda kemungkinan dipicu oleh adanyasatu atau beberapa kondisi diatas atau mungkin dipicu oleh adanya penyakit jantung yang pernah dan sampai sekarang mungkin mengganggu",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+157,24,Semakin menurunnya fungsi jantung dalam menjalankan fungsinya menyebabkan detak jantung menurun dan dapat berbahaya bagi pasien bila hal ini tidak terkontrol dengan baik,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,24,"Bila bradikardia tidak terkontrol dengan baik atau tidak ditangani dengan baik dapat menyebabkan Sesak nafas, Gagal jantung, Nyeri dada/chest pain, Sinkop Sehingga bila saat ini dokter menyatakan adanya gagal jantung dengan bradikardia, maka fungsi jantung sudah semakin menurun dengan segala penyertanya, dan risiko ini perlu dievaluasi secara berkala dan perlu kiranya mengikuti terus anjuran dan rekomendasi dari dokter yang merawat ibu Anda",a,f,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+159,24,Diskusikan dengan dokter yang merawat ibu Anda berkaitan dengan usaha perawatan mandiri yang perlu dilakukan dan usaha apa saja untuk membantu mengurangi beban jantung berlebihan,a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+160,24,Usaha-usaha ini dapat membantu mengurangi keluhan dan mencegah penurunan fungsi jantung yang semakin tidak terkontrol,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,24,"Beberapa hal di bawah ini dapat diusahakan untuk membantu proses perawatan di rumah, seperti Hindari stres, Cukupi makanan sehat, Kontrol penyakit lain yang ada, Tidur yang cukup, Mobilisasi sesuai anjuran dokter Demikian info yang bisa kami sampaikan",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+162,24,Terima kasih,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+163,25,"Hallo Dok, sya mau tanya kalau jantung bengkak apakah konsumsi air putih ada btasnya ?",q,f,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+164,26,"Alo Mukarsih, Terima kasih atas pertanyaannya",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+165,26,"Jantung bengkak seringkali dikaitkan dengan kondisi gagal jantung, yaitu di mana terjadi ganggun pada jantung sehingga jantung tidak dapat memompa darah ke seluruh tubuh secara maksimal",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,26,"Hal ini dapat menyebabkan penumpukan cairan pada tubuh, dan apabila cairan tersebut terlalu banyak, akan muncul gejala seperti bengkak, peningkatan berat badan, dan sesak napas",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+167,26,"Konsumsi cairan dari luar, seperti air putih dan minuman lainnya, serta makanan yang kaya akan air pun dapat berperan dalam peningkatan cairan di tubuh ini",a,f,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+168,26,"Oleh karena itu, penderita gagal jantung sebaiknya memonitor cairan yang dikonsumsinya",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+169,26,"Hal ini juga tergantung dari derajat gagal jantung yang dimiliki seperti sudah seberapa parah ketidakmampuan jantung untuk memompa darah, serta obat apa saja yang dikonsumsi sekarang ini",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,26,"Seringkali penderita gagal jantung yang belum parah tidak harus membatasi asupan cairannya, akan tetapi pada kasus lanjut, ia harus membatasi cairan sekitar 1,5-2 liter per harinya, termasuk cairan yang dikonsumsinya selain dari air putih (makanan, buah dan sayur yang kaya akan air, sup-supan, dll)",a,f,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+171,26,"Sebaiknya, lakukanlah konsultasi ke dokter spesialis jantung yang merawat Anda, sebagaimana dokter mengerti kondisi medis yang dialami berdasarkan riwayat keluhan, hasil pemeriksaan fisik, dan hasil pemeriksaan penunjang seperti USG jantung",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+172,26,Semoga informasi ini bermanfaat ya,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+173,26,Salam,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+174,27,"Malam dpk, maaf izin bertanya untuk penanganan gagal jantung itu bisa dengan minum susu sapi ga sih?",q,f,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+175,28,"halo, terima kasih sudah bertanya kepada alodokter, saya dr Ainul",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+176,28,"gagal jantung merupakan kondisi yang disebabkan karena jantung mengalami masalah pada saat memompa darah, kekutan jantung untuk memompa berkurang dan darah yang dipoma berkurang karena darah masih berada disirkulasi",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,28,Gagal jantung dapat dibagi menjadi gagal jantung kanan dan gagal jantung kiri,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,28,gagal jantung kanan lebih cenderung pasien tidak bergejala akan tetapi banyak tanda-tanda ditemukan oleh dokter saat melakukan pemeriksaan fisik,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,28,"sementara pada gagal jantung kiri pasien mengeluh sesak saat aktivitas, sesak pada malam hari",a,f,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,28,"gagal jantung kanan dapat dicetuskan oleh penyakit pada paru, jaringan pada otot jantung yang mengalami masalah",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,28,"pengobatan yang dapat dilakukan dengan mengobati penyakit yang mendasari terjadinya gagal jantung kanan, mengeleminasi pemicu terjadinnya gagal jantung seperti garam, infeksi, gangguan irama jantung ( aritmia), dan pemberian obat-obatan untuk meningkatkan kualitas jantung",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+182,28,pemberian minum susu sapi tidak ada kaitannya dengan pengobatan yang dilakukan,a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+183,28,"pengobatan dapat dilakukan dengan pemberian obat yang dapat menurunkan cairan yang ditubuh, meningkatkan kontraktilitas jantung dan juga meningkatkan aliran darah ke jantung",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+184,28,"pada penderita gagal jantung sebaiknya menhindari asupan garam yang berlebihan, batasi konsumsi kafein, dan juga hindari paparan asap rokok",a,f,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+185,28,Untuk informasi lebih lanjut sebaiknya berkonsultasi dengan dokter jantung,a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+186,28,semoga membantu,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+187,29,"Permisi dok izin bertanya, om saya umur 50 tahun di diagnosa gagal jantung",q,f,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+188,29,"Pada pemeriksaan EKG nya didapatkan gelombang qrs membasar, itu maksudnya apa ya dok? Terimakasih",q,f,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+189,30,"Alo Maulana, terima kasih sudah bertanya",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+190,30,Gagal jantung merupakan tahap akhir dari berbagai masalah jantung,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,30,"Pada dasarnya semua penyakit pada jantung, apapun bentuknya, bila tidak diatasi dini, akan dapar berujung pada gagal jantung",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,30,Jantung sudah tidak mampu lagi memompa sejumlah volume darah yang cukup untuk memenuhi kebutuhan jaringan tubuh,a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+193,30,Fungsi pompa jantung sudah sangat menurun akibat otot jantung yang rusak,a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+194,30,Jantung sebagian besar terdiri dari sel otot,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,30,"Bagian jantung yang memompakan darah ke seluruh tubuh dan paru, disebut denganventrikel",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,30,"Pada gagal jantung, ventrikel umumnya sudah sangat menurun fungsinya",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,30,"Pada pemeriksaan EKG, direkam kerja listrik jantung dalam tiap denyut",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+198,30,Saat jantung memompa akan terlihat gelombang pada EKG,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+199,30,Gelombang QRS adalah gelombang yang menggambarkan kerja ventrikel jantung,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+200,30,Gelombang QRS yang melebar menandakan fungsi ventrikel yang terganggu dan wajar ditemukan pada kondisi gagal jantung,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+201,30,Hal yang terbaik saat ini adalah kontrol teratur dan patuhi anjuran dokter dengan tepat,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,30,Ketidak patuhan mengakibatkan seseorang dengan gagal jantung akan menurun dengan cepat kondisinya,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,30,Semoga informasi ini bermanfaat,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+204,30,Salam,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+205,31,Dok saya ingin bertanya yang dimaksud dengan diastolik grade 1 itu apa,q,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+206,32,"Alo, terimakasih sudah bertanya ke Alodokter",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+207,32,Perkenalkan saya dr Rio akan menjawab pertanyaan anda,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,32,Tekanandiastolikadalah tekanan darah pada saat jantung sedang berelaksasi atau beristirahat,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+209,32,"Untuk pertanyaan yang anda ajukan sepertinya kurang lengkap, namun saya akan coba untuk memberikan sedikit gambaran",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,32,Mungkin yang anda maksudkan adalah disfungsi diastolik grade 1,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,32,Kondisi ini merupakan salah satu jenis dari gagal jantung kongestif,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,32,"Gagal jantung kongestif secara garis besar dibedakan menjadi dua yaitu disfungsi sistolik, dan disfungsi diastolik",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,32,Disfungsi sistolik terjadi ketika otot jantung tidak berkontraksi dengan baik sehingga darah tidak terpompa keseluruh tubuh,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,32,"Disfungsi diastolik terjadi ketika kontraksi jantung normal, namun ventrikel / serambi mengalami gangguan sehingga darah yang masuk ke jantung tidak maksimal",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,32,"Itu adalah penjabaran singkat, untuk informasi lebih jelasnya anda bisa berkonsultasi ke dokter jantung",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+216,32,"Sekian jawaban yang dapat saya berikan, terimakasih banyak :)",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+217,33,Sakit nyeri dada sebelah kiri disertai tangan dingin hingga kuku berwarna biru,q,f,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+218,33,Berapa kali rasa seperti jantung terhentak,q,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,34,"Alo, terimakasih atas pertanyaannya",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+220,34,"Jantung yang terasa bagai terhentak bisa wajar terjadi saat Anda kaget atau takut berlebihan, terlalu banyak mengkonsumsi minuman berkafein atau bersoda, serta mengkonsumsi stimulan dan beberapa jenis obat tertentu",a,f,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+221,34,"Akan tetapi, bisa juga keluhan seperti ini muncul karena suatu penyakit, misalnya: Gangguan jantung, seperti kelainan irama jantung, serangan jantung, gagal jantung, lemah jantung Gangguan psikis, seperti gangguan cemas berlebih, serangan panik, fobia spesifik, gangguan psikosomatis Lain-lain, seperti gastroesophageal reflux disease, alergi, gangguan keseimbangan elektrolit (terutama kalium, natrium, kalsium, magnesium), alkoholisme, penyalahgunaan narkoba, anemia, hipotensi, hipoglikemia, gangguan hormon, dan sebagainya Jika sesuai dengan judul Anda, dimana keluhan ini muncul disertai nyeri dada kiri, tangan dingin, dan kuku kebiruan, bisa jadi kondisi Anda mengarah ke gangguan jantung",a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+222,34,"Namun, untuk memastikan kondisi ini, perlu dilakukan pemeriksaan langsung oleh dokter, bahkan terkadang perlu juga dilakukan rekam jantung, rontgen, tes darah, dan tes penunjang lainnya",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+223,34,"Sebab itu, baiknya periksakan langsung diri Anda ke dokter atau dokter penyakit dalam ya",a,f,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+224,34,"Sementara ini, agar keluhan membaik, Anda bisa tidur lebih awal dan lebih teratur, jauhi minuman berkafein dan beralkohol, jangan juga sembarangan meminum stimulan, olahraga setiap 1-2 hari sekali dengan durasi minimal 30 menit persesi, perbanyak relaksasi agar tidak stres atau panik berlebihan, kompres hangat dada Anda, makan yang sering porsi kecil-kecil, serta jangan sembarangan minum obat tanpa saran dokter",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+225,34,Semoga membantu ya,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+226,35,"Halo dok saya ingin bertanya, ayah saya masuk ICU 3 bulan yang lalu, diagnosis awal menyatakan ayah saya terkena penyakit jantung koroner, dan setelah pulang ayah saya harus rutin kontrol, kontrol pertama diagnosis nya masih jantung koroner nah setelah kontrol kedua itu terkena penyakit gagal jantung, mengapa bisa begitu ya dok? Tapi ayah saya tidak pernah mengalami pembengkakan di kaki atau daerah tubuh lain, hanya saya suka sesak dada nya mohon penjelasan nya dok",q,f,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0
+227,36,"Halo, terimasih telah bertanya di Alodokter",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+228,36,Penyakit jantung koroner adalah kondisi medis yang mana terdapat sumbatan pada pembuluh darah arteri jantung yang terjadi akibat adanya penumpukan lemak pada dinding pembuluh darah,a,f,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,36,Sumbatan yang terjadi dapat mengganggu aliran darah dan pasokan oksigen ke otot jantung yang menyebabkan terjadinya serangan jantung,a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+230,36,Penyakit gagal jantung merupakan kondisi dimana terjadi penurunan fungsi pompa jantung dlam menjalankan fungsinya untuk memompa dan mengalirjkan darah ke seluruh tubuh,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+231,36,Salah satu penyebab tersering terjadinya gagal jantung adalah penyakit jantung koroner,a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+232,36,Mekanisme yang mendasari adalah sumbatan atau penyempitan pembuluh darah koroner tersebut mengakibatkan terjadinya kerusakan atau kematian otot jantung sehingga berdampak pada kemampuan pompa jantung yang juga menurun/melemah,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+233,36,"Selain itu beberapa yang dapat menjadi penyebab timbulnya gagal jantung antara lain: hipertensi, diabetes mellitus, kelainan katup jantung, kelainan otot jantung, penakit jantung bawaan, radang otot jantung, dll",a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+234,36,Penyakit gagal jantung sendiri dapat bervariasi tergantung dari lokasi kerusakan otot jantung yang terjadi atau keterlibatan dari pembuluh jantung yang mengalami sumbatan (penyakit jantung koroner) sehinga dapat di kategorikan menjadi gagal jantung kanan atau gagal jantung kiri yang gejalanya pun dapat berbeda antara kedua jenis gagal jantung tersebut dan gejala gagal jantung tidak semata-mata berupa bengkak pada tungkai,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+235,36,"Gejala gagal jantung dapat berupa sesak nafas, mudah lelah, sesak terutama dipengaruhi posisi dan lebih berat bila dalam posisi telentang, batuk terutama malam hari, cemas, gelisah, berat badan naik derastis, dll",a,f,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+236,36,"Terlepas dari beberapa gejala yang mungkikn di timbulkan, penegakan diagnosis gagal jantung membutuhkan evaluasi yang mendalam mulai dari wawancara medis dalam penggalian informasi, dan pemeriksaan isik secara langsung serta pemeriksaan penunjang berupa echocardiografi atau USG jantung maupun pemeriksaan penunjang lainnya",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+237,36,"Oleh sebba itu, untuk mendapatkna informasi yang lebih lengkap dan sesuai dengan kondisi medis ayah anda, akan lebih baik bila anda dapat berkonsultasi secara langsung dengan dokter spesialis janutng yang sebelumnya telah merawat ayah anda",a,f,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+238,36,"Sekian informasi dari saya, semoga membantu",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+239,37,"Halo Dokter, Saya mengalami serangan jantung dan pasang ring hampir 3 bulan yang lalu, di RS Harapan Kita",q,f,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0
+240,37,Saat itu diketahui melalui Echo bahwa pompa jantung 30%,q,f,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+241,37,"Saat keluar RS, termasuk setelah kontrol pertama (di RS yang sama), salah satu obat yang saya konsumsi adalah Concor 1,25 mg ",q,f,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+242,37,"Pada kontrol kedua, di rumah sakit lain, Concor diganti dengan Bisoprolol 2,5 mg",q,f,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+243,37,"Dokternya menjelaskan bahwa memang seperti itu caranya, dosis Concor/Bisoprolol perlu dinaikkan perlahan agar bekerja dengan lebih baik",q,f,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+244,37,"Namun pada kontrol ketiga, kembali di RS Harapan Kita, saya kembali diberikan Concor 1,25 mg",q,f,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+245,37,"Pertanyaan saya, apakah kenaikan dosis seperti yang dijelaskan oleh dokter di kontrol kedua adalah hal yang umum/wajib? Pasalnya, saya agak khawatir dokter di kontrol ke-3 kurang fokus membaca riwayat obat saya",q,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+246,37,Terima kasih,q,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+247,38,"Alo Radia, Kedua obat yang Anda sebutkan merupakan obat golongan beta blocker yang menghambat reseptor adrenergikβ1 dan digunakan untuk menangani penurunan fungsi jantung seperti pada gagal jantung",a,f,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+248,38,"Selain itu, obat ini juga dapat digunakan untuk penderita hipertensi dan atrial fibrilasi",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+249,38,Obat ini memiliki anjuran dosis yang berbeda-beda tergantung dari indikasi penggunaan obat tersebut,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+250,38,"Berdasarkan informasi yang Anda sampaikan, yaitu adanya penurunan fungsi pompa jantung menjadi 30%, maka penggunaan obat ini dilakukan berdasarkan indikasi adanya gagal jantung yang terkompensasi",a,f,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+251,38,"Pada gagal jantung, obat ini diberikan dengan dosis awal 1,25 mg yang diminum sekali sehari",a,f,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+252,38,Obat ini akan dinaikkan secara perlahan-lahan sampai mencapai target dosis 10 mg per harinya,a,f,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+253,38,"Namun pada pasien-pasien tertentu seperti penderita gangguan fungsi ginjal dan hati, obat ini dimulai dari dosis 2,5 mg dan dinaikkan secara hati-hati",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,38,"Adapun peningkatan dosis ini dilakukan hanya dengan anjuran dokter, dan peningkatan dosis ini dapat dilakukan dalam jangka panjang",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+255,38,"Jangan menaikkan atau menghentikan dosis obat secara tiba-tiba atau tanpa saran dari dokter, sehingga sebaiknya Anda menghubungi dokter mengenai modifikasi dosis ini atau saat kunjungan kontrol berikutnya",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+256,38,Semoga informasi ini dapat membantu,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+257,38,Salam,a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+258,39,"Hallo dok saya ingin bertanya, ayah saya mengidap penyakit jantung membesar dan saat ini sedang dalam masa pengobatan",q,f,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+259,39,"Namun akhir - akhir ini ayah saya sering banget sesak nafas dok, dan juga kaki ayah saya bengkak dok",q,f,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+260,39,Apa yg harus saya lakukan?,q,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+261,40,"Halo Umam, terima kasih telah bertanya di Alodokter",a,f,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+262,40,Gagal jantung adalah suatu kondisi dimana terjadinya kegagalan jantung dalam memompa darah ke seluruh tubuh,a,f,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+263,40,Hal tersebut dapat disebabkan karena kondisi lemahnya otot jantung,a,f,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+264,40,"Pada orang yang mengalami gagal jantung, beberapa gejala yang dapat dirasakan adalah : Sesak, terutama saak beraktivitas Gangguan proses pernapasan ketika perubahan posisi Sesak nafas pada malam hari Bengkak pada tubuh, terutama kaki Sesak dan bengkak yang terjadi pada ayah anda merupakan bentuk dari sulitnya jantung untuk memompakan darah ke seluruh tubuh",a,f,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+265,40,"Pada orang yang mengalami gagal jantung, darah yang masuk ke jantung tidak dapat langsung disalurkan keseluruh tubuh seperti pada orang normal, harus secara bertahap",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+266,40,"Ada beberapa hal yang dapat dilakukan untuk membantu meringankan gejala, seperti : Membatasi asupan cairan, minimal 1-1,5L tergantung beratnya penyakit Tidak merokok dan tidak mengkonsumsi alkohol Hindari aktivitas yang tidak diperlukan Perbanyak istirahat Apabila keluhan sesak semakin memberat, dan terdapat gejala lain seperti nyeri dada, jantung berdebar maka segera konsultasi ke rumah skait untuk mendapatkan perawatan lebih lanjut",a,f,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+267,40,"Semoga membantu, terima kasih",a,f,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+268,41,"Assalamualaikum, Dok, jadi gini dok ibu mertua saya di vonis menderita penyakit katup jantung",q,a,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,41,"Kata dokter harus segera di operasi, Apakah ada cara pengobatan lain selain operasi? mohon penjelasannya dokter,thanks",q,a,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+270,42,"Alo, terima kasih atas pertanyaannya untuk Alodokter,",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+271,42,"Penyakit katup jantung merupakan kelainan pada katup jantung yang menjadi sekat antar ruang jantung, dimana dapat membuat gangguan pada aliran darah di dalam jantung, sehingga dapat menimbulkan keluhan yang sangat mengganggu aktivitas sehari-hari seperti nyeri dada, jantung berdebar, sesak napas, lemas, pusing, hingga pingsan",a,a,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+272,42,"Pada kondisi mertua anda yang saat ini menderita penyakit katup jantung dan baru dialami pada usia saat ini, maka bisa disebabkan oleh berbagai macam kemungkinan penyebab seperti demam reumatik, hipertensi, gagal jantung, serangan jantung, penyakit autoimun, atau gaya hidup tidak sehat sebelumnya",a,a,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+273,42,"Penyakit katup jantung terdiri dari beberapa kondisi yaitu adanya kekakuan katup jantung, katup jantung bocor, atau adanya kelainan bentuk katup jantung yang bisa juga didapat dari penyakit jantung bawaan",a,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,42,"Beberapa kondisi tersebut merupakan gangguan pada katup jantung yang terjadi secara mekanik, sehingga penanganannya juga memerlukan tindakan medis secara mekanik yaitu operasi, tidak bisa menggunakan zat kimiawi seperti obat-obatan saja",a,a,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+275,42,"Jikalau diberikan obat-obatan untuk penyakit jantung, obat-obatan tersebut hanyalah untuk meringankan keluhan gejala dan mencegah perburukan atau komplikasi penyakit jantung, namun tidak dapat menuntaskan penanganan terhadap akar permasalahan yaitu kelainan pada katup jantung",a,a,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+276,42,"Oleh karena itu, jika memang dokter jantung sudah menyarankan untuk segera dilakukannya operasi, maka sebaiknya ikuti saran dokter tersebut yang sudah lebih ahli dan mengetahui kondisi mertua anda saat ini",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,42,"Demikian yang dapat kami sampaikan, semoga bermanfaat. Terima kasih.",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,43,"Alodokter., jadi gini dok., saya mau tanya tentang penyakit jantung yang di derita oleh kakek saya.",q,a,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,43,kalau katup jantung bocor itu apa harus dioperasi dok? apa saat operasi katup jantungnya di ganti atau bagaimana? Dan jika sudah dioperasi apa ada kemungkinan buruk atau ada efek samping atau bagaimana? Mohon penjelasannya dan sebelumnya terimakasih dok,q,a,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+280,44,Terima kasih atas pertanyaannya,a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+281,44,"Sebelumnya perlu diketahui terlebih dahulu jenis penyakit katup jantung yang diderita, bagaimana fungsi jantung saat ini serta kondisi pasien secara umum untuk mengetahui bagaimana penanganan yang dilakukan",a,a,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+282,44,Sehingga dalam mengetahui hal tersebut perlu pemeriksaan dari dokter jantung yang merawat karena perlu dilihat kondisi klinisnya,a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+283,44,"Namun secara umum, pada penderita penyakit katup jantungpengobatan disesuaikan dengan kondisi pasien yaitu keparahan secara umum untuk menangani penyakit jantung yaitu dengan menerapkan hidup sehat, istirahat cukup, kontrol dokter dan sebagainya",a,a,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0
+284,44,"Pemberian penanganan dilakukan untuk meringankan gejala namun tidak mengatasi sepenuhnya seperti pemberian diuretik, beta blocker, ACE inhibitor, antitiaritmia, dan sebagainya",a,a,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+285,44,Selain itu juga dapat dilakukan tindakanoperasi dapat dilakukan untuk memperbaiki atau mengganti katup jantung,a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+286,44,"Bila tidak ditangani, penyakit katup jantung dapat menimbulkan komplikasi seperti menimbulkan gagal jantung, stroke, hipertensi paru, endokarditis dan sebagianya",a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+287,44,Maka dari itu sebaiknya memeriksakan ke dokter untuk mengetahui kondisi dan terapi yang tepat sesuai dengan kondisi pasien,a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+288,44,"Terima kasih, semoga membantu",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+289,45,pagi dok. apakah bisa ganti katup mitral jantung pakai metode keterisasi ?,q,a,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+290,46,"alo, terima kasih sudah bertanya kepada alodokter. saya dr. Ainul",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+291,46,Penyakit katup jantung dapat terjadi jika terdapat kebocoran ataupun penyempitan yang menyebabkan penurunan fungsinya,a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+292,46,penyakii katup jantung terdapat 2 kondisi yaitu ( kekakuan atau stenosis dan kebocoran atau regurgitasi),a,a,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,46,pada jantung terdapat berbagai macam katup yang memiliki fungsi masing masing,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,46,penegakkan diagnosa penyakit katup jantung ini memeerlukan wawancara pemeriksaan fisik dan juga pemeriksaan penunjang seperti Echocardiografi ( usg jantung),a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+295,46,Pengobatan disesuaikan dengen tingkat keparahnya secara umum dapat dilakukan dengan melakukan operasi pada katup jantung,a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+296,46,pada operasi katup jantung dapat dilakukan dengan melakukan pembedahan didada dengan menutup kebocoran atau memperkuat pembuaan katup jantung,a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+297,46,Teknik operasi ini dapat dilakukan oleh dokter BTKVpada umumnya teknik oerpasi ini dilakukan dirumah sakit dengan tipe A atau rumah sakit yang memiliki fasilitas tertenu sehingga tidak semua rumah sakit bisa melakukannya,a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+298,46,metode katerisasi merupakan metode yang dilakukan dengan cara memasukan kateter untuk mengetahui masalah dijantung dan melakukan pengobatan,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+299,46,"Memang ada prosedur melakukan pengobatan pada penyakit katup jantung dengan menggunakan kateterisasi akan tetapi disesuaikan dengan tingkat keparahnya, membutuhkan alat khusus, dan dokter SubSpesialis yang belum banyak berada di Indonesia",a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+300,46,untuk itu baiknya segera berkonsultasi kepada dokter BTKV agar dapat dilakukan pengobatan yang tepat semoga membantu,a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+301,47,"Dok usia saya 23 tahun, saya di nyatakan oleh dokter ada masalah di salah satu katup jantung saya yang tidak bisa menutup dengan sempurna",q,a,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,47,Jadi selama kurang lebih sebulan ini saya merasa cepat lelah dan sesak napas. Keadaan sesak napas saya tiga hari ke belakang semakin parah hingga kalau dipaksakan untuk berbaring maka batuk dok. Kaki saya juga mengalami bengkak.,q,a,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+303,47,Kira kira bagaimana solusi untuk para penderita katup jantung yang susah tidur? Terima kasih,q,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+304,48,Salam alo Terima kasih telah bertanya kepada kami,a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+305,48,"Terkait pertanyaan Anda di atas, perlu diketahui sebelumnya bahwa kelainan katup jantung dapatmembatasi aktivitas penderita karena menyebabkan sesak napas, lemas, pucat, kebiruan, jantung berdebar, mudah lelah, keringat dingin, nyeri dada, dan banyak lagi keluhan lainnya",a,a,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,48,"Kelainan katup jantung ini bisa terjadi karena banyak hal, diantaranya Kelainan bawaan sejak lahir, Infeksi pada jantung, Riwayat sakit, jantung (termasuk serangan jantung), Riwayat penyakit lain yang diderita (hipertensi, kolesterol tinggi, diabetes, dll)",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+307,48,"Apabila dirasa keluhan Anda bertambah atau ada keluhan lain dan untuk mengetahui lebih pasti penyebab keluhan Anda, disarankan untuk berkonsultasi secara langsung kepada dokter cardio. Nantinya dokter akan melakukan tanya jawab lebih detail dengan Anda, dilakukan pemeriksaan fisik, dan pemeriksaan penunjang. Kemudian akan dilakukan penanganan sesuai kondisi medis Anda.",a,a,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+308,48,"Untuk membantu Anda mengatasi sesak napas, berikut yang dapat Anda lakukan: Perbanyaklah beristirahat Jangan berlebihan mengkonsumsi minuman berkafein, contohnya teh, kopi, soda Jangan merokok atau mengkonsumsi alkohol dan narkoba Kompres area dada yang nyeri dan sesak dengan air hangat Tidak terlalu banyak pikiran, jangan stres atau cemas berlebihan Makan lebih teratur, sedikit-sedikit tapi sering Tidak sembarangan minum obat Salam sehat, semoga membantu",a,a,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+309,49,"Selamat Siang Dokter, Saya inigin menyapaikan pertanyaan terkait dengan obat jantung brilinta ,saya sudah mengkonsumsi obat tersebut selama 4 tahun karena saya sudah pasang stant sebayak 3",q,a,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+310,49,dan saat ini jatah pemberian obat tersebut sudah habis waktunya karena sudah berlangsung selama 1 tahun dari pemasangan stant yang terakhir,q,a,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+311,49,"Yang ini saya tanyakan adalah apakah boleh langsung berhenti untuk mengkonsumsi obat tersebut Salam, Zul",q,a,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+312,50,"Alo, terimakasih atas pertanyaannya",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+313,50,"Merk obat yang Anda sebutkan mengandung bahan aktif ticagrelor. Obat ini termasuk pengencer darah golongan antiplatelet. Ia bekerja dengan menghalangi agregasi platelet (trombosit), sehingga mencegah terbentuknya bekuan darah penyebab sumbatan pembuluh darah.",a,a,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0
+314,50,"Dengan cara kerjanya tersebut, risiko terjadinya penyakit jantung koroner dan stroke, termasuk pada orang yang habis menjalani pemasangan ring (stent) jantung, bisa diperkecil ",a,a,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+315,50,Penentuan dosis dan durasi pengobatan dengan ticagrelor pada penderita penyakit jantung koroner yang sudah menjalani operasi pemasangan ring idealnya dilakukan langsung oleh dokter jantung dan dokter bedah vaskuler yang merawat,a,a,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+316,50,"Sebab, hal ini perlu disesuaikan dengan respons tubuh Anda terhadap pengobatan yang dijalani dan juga status kesehatan Anda secara umum",a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+317,50,Dokter menyatakan Anda perlu menjalani pengobatan selama 1 tahun sejak pemasangan ring terakhir belum tentu berarti Anda bisa langsung menghentikan pengobatan,a,a,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+318,50,"Bisa jadi juga, dokter perlu melakukan penyesuaian dosis seiring dengan perbaikan kondisi Anda, sebelum akhirnya menghentikan sama sekali pengobatan tersebut",a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+319,50,"Sayangnya, kami tidak memeriksa Anda langsung, sehingga bukan wewenang kami juga memastikan hal ini. Lebih tepat, sebelum menghentikan pengobatan, Anda periksalah dulu ke dokter yang selama ini merawat Anda ya..",a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+320,50,Semoga membantu,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+321,51,Hi Alodokter Teman saya sebulan yang lalu menjalani operasi pemasangan Ring Jantung (2 ring),q,a,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+322,51,"dia laki laki umur 31 tahun, nanti bulan depan dia akan menikah",q,a,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,51,"apakah dia sudah bisa melakukan sex? Sebelumnya teman saya kadang menggunakan marijuana, setelah pasang ring apakah dia masih bisa menggunakan marijuana (sebagai rokok)",q,a,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+324,52,"Alo, terima kasih atas pertanyaannya untuk Alodokter, Pemasangan ring atau stent jantung merupakan salah penanganan pada penderita jantung koroner yang merupakan kondisi dimana terdapat penumpukan plak sehingga menyumbat arteri koroner dan mengganggu aliran jantung sampai dapat menyebabkan serangan jantung",a,a,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0
+325,52,"Setelah pemasangan ring, sebaiknya tidak melakukan aktivitas berat secara tiba-tiba dan dapat melakukannya dengan bertahap",a,a,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+326,52,Sebenarnya aktivitas seksual tetap dapat dilakukan selama seseorang tidak mengalami gejala nyeri dada dan gejala serangan jantung lainnya,a,a,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+327,52,"Jika teman anda sudah dapat melakukan aktivitas sehari-hari seperti naik tangga atau berjalan cepat, maka kemungkinan besar aktivitas seksual sudah aman untuk dilakukan",a,a,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+328,52,"Pada saat berhubungan seksual, akan terjadi peningkatan denyut jantung dan tekanan darah yang terjadi selama 10-15 detik selama orgasme dimana setelahnya denyut jantung dan tekanan arah akan cepat kembali ke titik awal. Namun, untuk lebih amannya teman anda sebaiknya menunda hubungan seksual hingga 2-4 minggu setelah pemasangan ring.",a,a,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+329,52,"Ketika seseorang sudah pernah mengalami serangan jantung hingga diperlukan pemasangan ring, ia tetap berisiko terhadap terjadinya serangan jantung di kemudian hari",a,a,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+330,52,"Hal ini dikarenakan, kemungkinan besar ia memiliki faktor risiko terjadinya serangan jantung seperti faktor keturunan, merokok, obesitas, dan gaya hidup tidak sehat, yang dimiliki sebelumnya sehingga berdampak jangka panjang ke depannya",a,a,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+331,52,Salah satu faktor risiko terjadinya serangan jantung adalah penggunaan marijuana atau ganja dalam bentuk apapun,a,a,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+332,52,"Pada penggunaan ganja, detak jantung akan meningkat hingga 20-50 denyut per menit dan juga meningkatkan tekanan darah, dimana pada penderita jantung, kondisi ini dapat meningkatkan risiko terkena serangan jantung kembali di kemudian hari",a,a,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+333,52,"Maka dari itu, sebaiknya teman anda melakukan perubahan gaya hidup sehat termasuk tidak merokok tembakau ataupun ganja",a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+334,52,"Selain itu, teman anda juga perlu mempertahankan berat badan ideal, mengendalikan kadar kolesterol, diabetes, tekanan darah tinggi, olahraga teratur, istirahat teratur, dan kelola stres dengan baik",a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+335,52,"Demikian informasi yang dapat disampaikan, semoga bermanfaat. Terima kasih.",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+336,53,"Izin bertanya dokter, jadi ayah saya beberapa minggu lalu di diagnosa menderita UAP",q,a,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,53,"lalu di beri beberapa obat diantaranya alupurinol 100 mg, candesartan 16 mg, miniaspi 80mg yang diminum pada pagi hari, kemudian untuk siang clopidogrel, gabapentin 100mg, dannirokar retard 2,5 mg, lalu untuk malam simvastatin 20mg",q,a,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+338,53,"Nah setiap minum obat yang pagi itu ayah saya merasa tidak stabil tubuhnya, deg degan, dan sedikit sesak",q,a,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+339,53,Kira kira apakah ada yang salah dalam pengkombinasian obat atau ada hal lain ya dok? Terimakasih,q,a,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+340,54,"Alo, selamat malam UAP (unstable angina pectoris) merupakan suatu kondisi penyakit jantung koroner yang ditandai dnegan gejala nyeri di dada hal ini terjadi akibat saat otot jantung tidak mendapatkan suplai darah yang cukup karena pembuluh darah arteri pada jantung menyempit atau tersumbat",a,a,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+341,54,"unstable angina merupakan jenis angina yang biasanya muncul tiba-tiba, tidak bergantung pada aktivitas yang dilakukan dan bisa berlanjut meskipun penderitanya sudah beristirahat",a,a,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+342,54,rentang waktu terjadi juga lebih panjang dengan intensitas nyeri yang lebih parah dari pada stable angina,a,a,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+343,54,obat yang anda sebutkan yang dikonsumsi pada pagi hari ada beberapa obat yang menjadi efek samping dari gejala yang anda rasakan bisa jadi berupa efek samping obat namun bisa pula memang akibat sakit yang sedang anda alami,a,a,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+344,54,saran saya sebaiknya anda melakukan pemeriksaan atau konsultasi kembali ke dokter jantung untuk memastikan penyebabnya agar diberikan penangnan dan solusi yang lebih tapat,a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+345,54,semoga dapat membantu,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+346,55,"Siang dok, saya mau bertanya. Ibu saya dinyatakan menderita jantung koroner dan gula yang sangat tinggi, dan baru keluar dari rumah sakit kemarin.",q,a,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+347,55,Kondisi badannya ketika dirawat masih kuat untuk berjalan dan duduk,q,a,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+348,55,"Namun ketika pulang di rumah keesokannya tidak bisa berjalan, keluhannya lemas dibagian kaki, dan duduk pun tidak bisa seimbang, apakah ini salah satu penyebab dari jantung koroner atau gejala storke ringan ? Mohon Infonya tim Dokter Alodokter Terimakasih",q,a,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0
+349,56,"Alo, selamat sore penyakit jantung koroner merupakan kondisi saat arteri koroner tersumbat oleh timbunan lemak yang dimana menimbulkan geja berupa nyeri dada, sesak napas hingga gejala serangan jantung selain gejala tersebut penderita juga bisa menglami keluhan pusing, berkeringat, mual dan tubuh etrasa kemas",a,a,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+350,56,"dimana faktor resiko menyebabkan terjadui jantung koroner banyak hal salah satunya akibat diabetes yang ditandi dengan kadar gula dalam darah tinggi, akibat kadar gula dalam darah yang tinggi menyebabkan pembuluh darah menebal dan menghamabat aliran darah sehingga menyebabkan 2 kali lipat beresiko terserang penyakit jantung koroner",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+351,56,"keluhan yang dialami berupa lemas, merasa tidak semibang hal ini dapat disebabkan karena penyakit yang diderita namun bisa pula akibat kadar gula dalam darah turun,kekurangan cairan, mengalami tekanan darah rendah dan banyak hal untuk memastikannya harus melakukan pemeriksana lebih lanjut ke dokter ya, umumnya memang wajar setelah keluar rumah sakit etrasa lemas namun beberapa hari akan membaik, tetap jika keluhan yang dialami ibu anda tidak membaik maka perlukan pemeriksan secara langsung ke dokter yang menangani sebelumnya ya",a,a,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0
+352,56,"untuk stoke sendiri memang bisa menjadi resiko namun umumnya stroke dapat terjadi jika sebelah tubuh mengalami kelemahan gerak, maka dipelrukannya kontrol untuk penyakit ibu anda agar menhindari komplikasi penyakit lainnya",a,a,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+353,56,semoga dapat membantu,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+354,57,"Mau bertanya dokter, orangtua saya sudah usia lanjut 69 tahun di tahun ini",q,a,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,57,Ada riwayat penyakit diabetes dan hipertensi,q,a,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+356,57,"Malam ini orangtua saya lemas, pada saat sebelum orangtua saya tidur, saya cek utk tensi 138/89 dengan detak jantung 122",q,a,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+357,57,"Sedang dalam Posisi tidur sekarang saya cek dengan oksimeter saturasi fluktuatif di 89 hingga 95, dengan detak jantung 114",q,a,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+358,57,Apa kira-kira penyebab nya ya dok? Untuk semalam dan hari memang selera makan turun dari orangtua saya,q,a,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+359,57,Sebagai informasi orangtua saya juga br sembuh dari opname awal masuk gula namun kecenderungan screning awal terkonfirm positif covid,q,a,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+360,57,Sudah 3 minggu baik2 saja pasca dinyatakan pulang dari isolasi di rs,q,a,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+361,57,Dan baru smalam hingga hari ini lemas karena sulit masuk makan karena selera makan yang menurun,q,a,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+362,57,Mohon petunjuk mengapa bisa demikian dan pengobatan awal apa yang bisa keluarg lakukan di rumah ? Apakah bisa disupport dengan cair infus air garam ? Terimakasih,q,a,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+363,58,"Alo Bernadeth, Terima kasih atas pertanyaannya",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+364,58,"Detak jantung manusia normalnya berkisar antara 60-100 denyut per menit. Detak jantung lebih dari 100 denytu per menit tergolong tidak normal, dan dikenal dengan takikardia. ",a,a,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+365,58,"Beberapa penyebab takikardia misalnya infeksi dalam tubuh seperti pneumonia, infeksi saluran kemih, sepsis (infeksi dalam darah), anemia, dehidrasi, kadar gula darah yang rendah, gangguan irama jantung, penyakit jantung koroner, gangguan elektrolit tubuh, gangguan fungsi ginjal, efek samping konsumsi obat, stres yang tinggi",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+366,58,Diperlukan pemeriksaan lebih lanjut untuk memastikan penyebab keluhan ini. Tidak semua kondisi dapat diatasi dengan pemberian cairan infus saja.,a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+367,58,Silakan periksakan kondisi orang tua Anda ke dokter penyakit dalam terdekat agar dapat dilakukan pemeriksaan lebih menyeluruh sebelum diberikan penanganan yang sesuai,a,a,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+368,58,"Namun, apabila kondisi ini disertai dengan keluhan lain seperti sakit dada, sesak napas, keringat dingin, pusing/ pingsan, silakan segera bawa orang tua Anda ke IGD rumah sakit terdekat agar dapat segera diperiksa dan diberikan penanganan awal",a,a,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0
+369,58,"Untuk saat ini, silakan tetap jaga asupan makanan dan minuman orang tua Anda",a,a,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+370,58,Silakan tetap mengkonsumsi obat diabetes dan hipertensi secara teratur,a,a,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+371,58,Semoga membantu,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+372,59,"Halo dokter , saya mau bertanya dari umur berapakah bayi bisa melakukan kateterisasi jantung ?",q,a,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+373,60,"Alo Selly, terima kasih ya sudah bertanya di Alodokter",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+374,60,"Secara umum berdasarkan rekomendasi yang ada hingga saat ini, bila memang diperlukan (terdapat indikasi yang sesuai) tindakan kateterisasi jantung pada anak dapat dilakukan segera sejak sang anak dilahirkan karena prosedur ini minim invasi dan lebih rendah risiko dibandingkan dengan tindakan pembedahan jantung terbuka",a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+375,60,"Meskipun begitu, bila memang anda, keluarga anda atau kenalan anda memiliki anak yang memerlukan tindakan ini, pastikan utnuk berkonsultasi terlebih dahulu dengan dokter spesialis jantung yang menanganinya untuk memastikan sekiranya apakah pada usianya saat ini dengan kondisinya saat ini memungkinkan untuk melakukan prosedur tersebut atau diperlukan penundaan hingga jangka waktu / usia tertentu",a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+376,60,Semoga membantu,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+377,61,"Pagi dokter, saya kan habis renang. saya renang cuma sebentar tapi kenapa ya dok telapak tangan saya berwarna biru pucat? apa saya ada sakit jantung dok?",q,a,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0
+378,62,"Alo, selamat siang keluhan telapak tangan pucat kebiruan setelah berenang umumnya adalah hal yang wajar dan normal hal ini terjadi akibat kontak dengan suhu dingin yang dimana pembuluh darah di permukaan kulit bisa menyempit diameternya hal ini merupakan reaksi atau respon tubuh yang wajar untuk menyimpan panas tubuh sehingga suhu tubuh tidak ikutan menurun akibat penyempitan pembuluh darah inilah yang membuat kulit kemerahan menjadi berwarna biru",a,a,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+379,62,"sebenarnya kondisi ini terjadi saat berendam lama di air, namun suatu kondisi lama itu tergantung dan tergantung setiap reaksai atau respom tubuh seseorang juga. jadi adalah hal yang wajar umumnya akan membaik dengan sendirinya.",a,a,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+380,62,"anda bisa mandi kembali dengan air hangat, konsumsi minuman hangat, mengenakan pakaian yang agak tebal",a,a,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+381,62,"jika keluhan biru ditangan tidak kunjung membaik dan disertai dengan keluhan lainnya seperti lemas, sesak nafas, jantung beredar kencang maka segera temui dokter terdekat agar mendapatkan penanganan segera",a,a,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0
+382,62,semoga dapat membantu,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+383,63,"Dok saya ingin bertanya, saya wanita umur 25 tahun, seminggu yg lalu saya cek ke rs utk konsuk ke dokter penyakit dalam karna saya punya keluhan sesak napas, mual, pusing, kesemutan dan nyeri dada yg berpindah""",q,a,1,1,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0
+384,63,"dokter nyuruh saya buat rontgen dan EKG, dari hasil pemeriksaan dokter penyakit dalam saya dirujuk ke dokter spesialis jantung dok, dan dokter jantung menyatakan kalo saya kena penyempitan jantung dan saya disresepkan beberapa jenis obat dok, sebenernya apa ya dok penyebab bisa kena penyempitan jantung usia muda gini dok?",q,a,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+385,64,"Alo, terimakasih atas pertanyaannya",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+386,64,Istilah penyempitan jantung yang Anda sebutkan seringnya merujuk pada penyakit jantung koroner (PJK),a,a,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+387,64,"Pada kondisi ini, pembuluh darah koroner, yang berperan penting dalam memasok oksigen dan nutrisi ke otot jantung, menyempit lumennya, sehingga menyebabkan aliran darahnya menjadi tidak lancar",a,a,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+388,64,"Kondisi ini bisa memunculkan beragam keluhan, termasuk nyeri dan kesemutan di dada, mual, pusing, dan sesak napas sebagaimana yang Anda alami",a,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,64,"PJK bisa terjadi pada siapapun, termasuk dewasa muda seperti Anda",a,a,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,64,"Ada banyak faktor yang bisa meningkatkan risiko Anda mengalami PJK, contohnya: Faktor yang tidak bisa diubah, seperti keturunan, usia, dan jenis kelamin",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+391,64,"Faktor yang bisa diubah, seperti kebiasaan merokok atau mengkonsumsi alkohol, diet tidak seimbang, malas olahraga, stres berat, hipertensi, diabetes, kolesterol tinggi, kegemukan, penyakit ginjal kronis, dan sebagainya",a,a,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+392,64,"Supaya kondisi Anda teratasi, berkonsultasilah langsung dengan dokter jantung yang merawat Anda supaya diberikan tatalaksana yang tepat",a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+393,64,"Sembari itu, kondisi Anda bisa dicegah perburukan dan kekambuhannya dengan: Jika kembali muncul keluhan, jangan panik, segeralah beristirahat di tempat yang nyaman, serta mintalah bantuan agar dibawa periksa ke dokter",a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+394,64,"Minum air putih yang cukup dan perbanyak mengkonsumsi makanan yang mengandung kaya antioksidan, seperti sayur, biji-bijian utuh, buah",a,a,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+395,64,"Kurangi makan makanan yang mengandung tinggi garam, lemak trans, lemak jenuh, kolesterol, karbohidrat sederhana, dan makanan ultraproses",a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+396,64,"Olahraga teratur, setidaknya 30 menit setiap 1-2 hari sekali, dengan intensitas yang dinaikkan bertahap Jauhi rokok dan asapnya, alkohol, serta tidak sembarangan meminum obat dan herba",a,a,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+397,64,Semoga membantu ya,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+398,65,"Dok, saya cewek umur 21 tahun, sy mudah sekali kaget. Ga bs dengar suara keras2. ",q,a,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+399,65,"kalo denger suara keras jadi ada perasaan khawatir,dada terasa sesak sprti tertimpa suatu benda,dada sering berdebar2 kencang, apakh itu gejala penyakit jantung? apa harus saya periksakan? tolong bantuannya ya dok, makasih sebelumnya",q,a,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+400,66,"Alo, terima kasih atas pertanyaannya untuk Alodokter, Kaget atau terkejut merupakan respon normal yang disebut ""fight or flight"" dari tubuh yang merupakan bentuk perlindungan diri terhadap sesuatu yang dapat mengancam nyawa",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+401,66,"Kondisi ini bisa saja dipengaruhi oleh faktor genetik atau keturunan, ataupun karena gangguan kecemasan, gangguan panik, atau overthinking yang sedang anda alami saat ini",a,a,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+402,66,"Kondisi tersebut belum tentu mengarah kepada penyakit jantung, terutama jika anda hanya mengalami jantung berdebar saat kaget, dimana hal tersebut masih normal terjadi dan dialami oleh kebanyakan orang",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,66,"Respon mudah kaget yang anda alami sebenarnya tidak berbahaya, karena memang seseorang bisa saja memiliki sensitivitas yang lebih tinggi terhadap rangsangan indra tertentu",a,a,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+404,66,"Namun, jika hal tersebut membuat anda tidak nyaman, maka anda dapat mencoba mengatasinya dengan berkonsultasi lebih lanjut dengan psikolog, agar dapat diajarkan cara untuk menenangkan diri saat mengalami respon kaget",a,a,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+405,66,"Sementara ini anda perlu melatih pikiran anda untuk mengubah hal negatif menjadi positif, komunikasikan kondisi anda pada orang sekitar untuk tidak membuat anda menjadi sering kaget, selalu berusaha mempersiapkan diri akan suatu hal yang terjadi terutama pada saat di ruang terbuka atau di keramaian, serta tuliskan hal yang dapat membuat anda kaget, sehingga dapat mencegah anda untuk berpikir berlebihan terhadap sesuatu hal yang memicu respon kaget anda tersebut",a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+406,66,"Demikian yang dapat kami sampaikan, semoga bermanfaat",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+407,66,Terima kasih,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+408,67,Permisi dokter. Saya pria berumur 26 tahun dan bekerja di kantor hampir duduk terus setiap harinya,q,a,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+409,67,"Saya mau tanya dok, kenapa kadang dada kiri/jantung saya itu sakit banget seperti tertusuk ya dok? penyakit ini sakitnya cuman bertahan sampai beberapa detik aja dok, cuman kadang kambuh lagi",q,a,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+410,67,"kadang juga dada saya terasa panas, saya tidak punya maag dok, jadi kenapa ya dok dada kiri saya ini kadang sakit kaya ditusuk jarum gitu?",q,a,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+411,68,"Alo, terima kasih atas pertanyaannya untuk Alodokter, Nyeri dada sebelah kiri dapat disebabkan oleh banyak kemungkinan penyebab seperti serangan jantung, angina, GERD atau sakit maag, gangguan saluran napas, riwayat cedera, muscle strain atau kram otot dada, ataupun karena kondisi psikis seperti stres maupun ganggunan psikosomatik",a,a,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,1,0
+412,68,"Umumnya nyeri dada kiri yang merupakan tanda gawat darurat, jika disertai dada yang terasa tertekan atau diremas, nyeri menjalar dari dada ke lengan, punggung, leher, dan rahang, berlangsung lebih dari 15 menit, ataupun disertai keluhan mual, muntah, sesak napas, dan berkeringat",a,a,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+413,68,"Namun, jika kekambuhan keluhan yang anda alami saat ini sangat membuat tidak nyaman hingga mengganggu aktivitas, maka anda dapat memeriksakan diri dengan dokter ataupun melakukan medical check up, jika nantinya tidak didapati bukti adanya penyakit fisik, maka bisa saja keluhan anda dipengaruhi oleh kondisi psikis tertentu",a,a,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+414,68,"Demikian yang dapat kami sampaikan, semoga bermanfaat. Terima kasih.",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+415,69,"Selamat siang, kenapa ya saat saya merasa cemas, gugup, gemetar tangan saya selalu berkeringat, apakah itu tanda-tanda saya punya penyakit jantung?",q,a,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+416,70,Alo. Terimakasih sudah bertanya kepada Alodokter,a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+417,70,Penyakit jantung dapat disebabkan oleh berbagai hal,a,a,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+418,70,"Berbagai macam penyakit jantung meliputi Penyakit arteri koroner (penyakit jantung koroner), Aritmia (Gangguan irama jantung), Penyakit jantung bawaan (Kelainan jantung sejak lahir), Kardiomiopati(Gangguan pada otot jantung), Infeksi jantung (Akibat bakteri/ virus/ parasit), Penyakit katup jantung",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+419,70,"Penanganan penyakit jantung sangat tergantung dari penyebab, bisa berupa obat jantung maupun perubahan gaya hidup termasuk pola makan dan olahraga yang disesuaikan kondisi medis",a,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+420,70,Terkait pertanyaan anda: Gejala penyakit jantung tergantung dari penyebabnya,a,a,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+421,70,"Semisal gejala penyakit jantung koroner yaitu nyeri dada, sesak napas, lemas",a,a,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,70,Tangan selalu berkeringatdapat merupakan tanda daripertandaprimary focal hyperhidrosis,a,a,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+423,70,"Telapak tangan berkeringat dapat merupakan kondisi normal jika kelenjar keringatterstimulasi oleh saraf apabila seseorang emosional (terlalu bersemangat, gugup, dan takut atau cemas), banyak bergerak,kepanasan, atau makan makanan pedas",a,a,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0
+424,70,"Cara menangani tangan selalu berkeringat diantaranya yaitu menghindari pencetus, menggunakan produk mengandung aluminum chloride, menggunakan teknik relaksasi, secara medis (obat-obatan, suntik botox, lonthoporesis, operasi)",a,a,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0
+425,70,"Apabila anda ragu terkait keluhan tangan anda yang sering berkeringat, maka anda dapat mengkonsultasikan lebih lanjut pada dokter untuk mendapatkan penanganan yang tepat",a,a,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+426,70,"Sementara anda dapat melakukan hal-hal sebagai berikut: Minum dan makan dengan pola gizi seimbang,Istirahat cukup dan rutin berolahraga disesuaikan dengan usia dan kondisi medis,Melakukan tenik relaksasi untuk mengatasi kecemasan,Tetap menjaga protokol kesehatan dan melakukan vaksinasi Covid-19",a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+427,70,Sekian informasi yang dapat saya berikan. Semoga membantu. Salam sehat dan sukses selalu.,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+428,71,saya memiliki anak dengan jantung bocor sekitar 4mm-5mm. dan usianya sekarang sudah 18 bulan,q,a,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+429,71,"untuk segala jenis gejala,seperti membiru pada bibir, berat badan tidak naik, tubuh lemas dan sebagainya, tidak dirasakan oleh anak saya",q,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,71,"anak saya minum susu tidak tersedak ato ngos2 an,berat badan anak saya tiap bulan tetap naik,dan tidak membiru pada bibir,seperti anak normal",q,a,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+431,71,apakah ada kemungkinan bisa tutup sendiri jantung bocornya ?,q,a,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+432,72,"Halo, terima kasih sudah bertanya di Alodokter",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+433,72,"Penyebab jantung bocor pada anak anak atau bayi disebabkankarena lubang antara dinding di ruang kiri dan kanan jantung tidak tertutup sempurna sebagaimana mestinya, walaupun ada juga anak-anak yang memiliki gangguan pada katup jantung",a,a,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+434,72,Pada beberapa anak ada yang mengalami PFO / patent foramen ovale yaitu suatu kondisi ketika lubang antara serambi kiri dan kanan jantung tidak tertutup meskipun normalnya sesaat setelah dilahirkan lubang ini akan menutup sendiri,a,a,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+435,72,"Pada sebagian besar kasus PFO tidak menimbulkan keluhan atau tanda tanda gejala khusus namun pada beberapa kasus yang jarang bisa saja bayi dengan PFO bisa menunjukkan gejala kulit menjadi biru ketika menangis / buang air besar, lemas, tidak kuat menyusu apalagi bila disertai dengan penyakit jantung bawaan",a,a,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+436,72,"Untuk memastikan kondisi anak Anda tentunya harus dilakukan pemeriksaan dokter secara langsung, dengan pemeriksaan yang rutin maka bisa memantau kondisi anak Anda",a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+437,72,Jangan lupa juga harus dipantau juga tumbuh kembang pada anak juga ya,a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+438,72,Tetap memberikan asupan nutrisi yang baik agar proses pemulihan berjalan optimal,a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+439,72,Semoga dapat bermanfaat,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+440,73,"Selamat siang dok saya mau bertanya,apakah boleh menerima vaksin astrazeneca pada penderita penyakit jantung,lebih tepatnya bocor katup jantung,terima kasih sebelumnya dok",q,a,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+441,74,Selamat malam saya dr iranita akan mencoba menjawab pertanyaan anda Tidak ada larangan pada pasien yang memiliki riwayat penyakit jantung untuk menerima vaksin covid-19 selama pada saat ini kondisi anda sedang dalam keadaan stabil atau tidak bergejala,a,a,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+442,74,"Adapun pada kasus anda ini sebaiknya anda memeriksakan kondisi anda terlebih dahulu kepada dokter spesialis jantung agar dilakukan pemeriksaan untuk mengetahui kondisi anda saat ini, Selain itu anda juga perlu meminta surat rekomendasi dari dokter spesialis jantung yang memeriksa anda mengenai surat rekomendasi layak vaksin",a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+443,74,Lalu surat rekomendasi vaksin ini anda bawa ke tempat vaksinasi ketika anda akan melakukan vaksin,a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+444,74,Adapun orang yang tidak layak diberikan vaksin adalah: 1. orang yang memiliki alergi pada vaksin covid-19 atau pun alergi terhadap komponen yang terdapat di vaksin. Misalnya anda timbul reaksi alergi berat saat vaksin satu maka tidak boleh dilakukan vaksin 2 pada anda,a,a,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+445,74,sedang dalam kondisi infeksi akut. Lalu jika anda mengalami infeksi TB setidaknya anda sudah meminum obat TB sekurang-kurangnya 2 minggu sebelum vaksin,a,a,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+446,74,Seseorang yang memiliki penyakit imunodefisiensi primer,a,a,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+447,74,"Jika anda memiliki komorbid atau penyakit penyerta seperti asma,diabetes,stroke,atau misalnya penyakit jantung. Maka harus dalam kondisi stabil dan membawa surat rekomendasi dari dokter spesialis yang merawat anda",a,a,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+448,74,Semoga jawaban ini dapat membantu anda terima kasih,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+449,75,"Hallo dok, saya usia 16 tahun",q,a,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,75,saya di keluarga ada riwayat penyakit jantung,q,a,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+451,75,saya selama ini tidak menyangka kalau saya bakal mengalami penyakit jantung seperti ayah saya,q,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,75,"awalnya saya merasakan gejala sesak napas, detak jantung menjadi lebih cepat atau melambat, pucat bahkan pingsan",q,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,75,"setelah melakukan pemeriksaan Elektrokardiografi ( EKG ), ternyata benar saya penyakit jantung",q,a,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+454,75,"gimana ya dok, cara menyembuhkan penyakit ini di usia muda saya?",q,a,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+455,76,Terima kasih atas pertanyaannya,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+456,76,Penyakit jantung dapat menyerang baik dewasa maupun anak-anak,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+457,76,Selain itu terdapat berbagai jenis penyakit jantung yang memiliki penanganan yang berbeda pada setiap jenisnya,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+458,76,"Beberapa penyakit jantung yang dapat menyerang anak seperti mengalami penyakit jantung bawaan, gagal jantung, penyakit jantung rematik, aritmia, perikarditis, miokarditis, dan sebagianya",a,a,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+459,76,"Setiap jenis penyakit jantung dapat menimbulkan gejala yang berbeda-beda misalnya mengalami sesak napas, nadi cepat, warna kebiruan pada kulit, keringat berlebih, mudah lelah, dan sebagianya",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+460,76,"Untuk mengetahui penyakit jantung dapat dilakukan pemeriksaan dari wawancara keluhan, pemeriksaan fisik, serta pemeriksaan penunjang seperti EKG, foto rontgen, echo dan sebagainya",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+461,76,Dari pemeriksaan tersebut baru diketahui jenis penyakit jantung dan kemudian dapat ditentukan mengenai terapi yang dilakukan,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,76,"Saat ini tidak diketahui penyakit jantung apa yang diderita, terdapat berbagai macam pengobatan seperti dilakukan operasi, pemberian obat-obatan, dan sebagianya",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,76,Maka dari itu sebaiknya berkonsultasi ke dokter spesialis anak konsultan kardiologi,a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+464,76,"Terima kasih, semoga membantu",a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+465,77,"Halo dokter, mau tanya",q,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+466,77,"Ibu saya baru menjalani kateter dan pasang ring jantung sebulan lalu, karena jantung koroner",q,a,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+467,77,"Sebelum pasang ring, dokter ibu saya pernah meresepkan obat-obat termasuk nitrokaf",q,a,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+468,77,Penggunaan nitrokaf dihentikan setelah pasang ring,q,a,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+469,77,"Namun saat kontrol terakhir, karena ibu ada sedikit keluhan nyeri dada, ",q,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,77,dokter meresepkan nitrokaf kembali dan ini malah membuat ibu saya sesak di dada beberapa hari terakhir,q,a,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+471,77,"Mohon petunjuknya, terima kasih",q,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,78,"Alo, terimakasih atas pertanyaannya",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+473,78,Penyakit jantung koroner adalah suatu kondisi dimana diameter arteri koroner menyempit karena terumbat oleh plak atherosklerosis,a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+474,78,"Secara klinis, penderita penyakit jantung koroner seringnya akan merasakan dadanya nyeri, terutama di sebelah kiri, bisa juga disertai lemas, berkeringat dingin, mual, pusing, dan beragam keluhan lainnya",a,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+475,78,"Kondisi ini, jika sudah ditangani dengan pemasangan ring dan pemberian obat yang tepat, seringnya bisa membaik juga gejalanya",a,a,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+476,78,Nyeri dada sehabis pemasangan ring pada penderita penyakit jantung koroner mungkin wajar terjadi karena proses adaptasi tubuh,a,a,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+477,78,"Obat yang Anda resepkan mengandung bahan aktif nitrogliserin, yang berguna dalam melebarkan diameter arteri koroner, sehingga diharapkan bisa melancarkan aliran darah ke otot jantung dan meminimalisasi rasa nyeri dada",a,a,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+478,78,"Memang, pada orang yang sensitif, bukan tidak mungkin obat ini malah bisa memicu sesak, misalnya karena alergi terhadap obatnya atau karena asam lambung yang meningkat",a,a,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+479,78,"Namun, sesak ini sejatinya bisa juga muncul karena beragam pencetus lain, termasuk gangguan pernapasan, gangguan pencernaan, gangguan psikis, dan sebagainya",a,a,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+480,78,"Saran kami, janganlah dulu Anda panik menyikapi hal ini",a,a,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+481,78,"Anda bisa lakukan dulu: Pastikan ibu Anda melanjutkan konsumsi obat sesuai cara yang dianjurkan dokter Kompres hangat dada beliau yang sesak Berikan beliau makan dengan porsi sedikit namun sering Kurangi dulu pemberian makanan yang mengandung banyak gas, pedas, kolesterol, lemak trans, lemak jenuh, kafein, dan soda Tidak mendekati hal yang membuat Anda alergi agar sesak tidak memburuk Tenangkan pikiran Anda Jangan merokok atau sembarangan meminum obat lain Jika sesak yang ibu Anda alami tampak sangat berat, apalagi disertai lemas, bengkak-bengkak badan, pusing, muntah, dan keluhan lain yang serius, lebih aman diperiksakan SEGERA ke dokter atau dokter jantung terdekat ya",a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+482,78,Semoga membantu,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+483,79,"Selamat Pagi/siang/malam,",q,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,79,sebelum bertanya saya ingin mengungkap keadaan saya saat ini,q,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,79,dalam beberapa hari ini saya tidak bisa tidur dikarenakan jantung saya berdebar cukup keras dan cepat,q,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,79,"padahal sedang posisi tiduran/istirahat tidak dalam keadaaan melakukan hal hal berat, tetapi selanjutnya merembet ketangan atau kaki serasa dingin seketika, satu hari saya merasakan tekanan cukup berat dibagian dada ditengah",q,a,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+487,79,"beberapa hari sempat mereda dan sekarang seperti lebih parah untuk jantung yang berdebar lebih cepat kadang mengganggu konsentrasi, kadang saya lebih berkeringat dingin, dan jadi malas makan",q,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,79,kadang seperti ingin pingsan tetapi masih terjaga,q,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,79,apa yang terjadi ya ? dan apa yang dapat saya lakukan ? dalam waktu dekat saya ingin melakukan Medical CheckUp,q,a,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+490,79,apakah tindakan saya benar atau harus ada tindakan lain ?,q,a,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+491,80,"Alo, terimakasih atas pertanyaannya",a,a,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+492,80,"Jantung berdebar kencang hingga membuat sulit tidur, tangan dan kaki terasa dingin, dada bagai ditekan benda berat, konsentrasi dan nafsu makan menurun, bagai ingin pingsan kemungkinan penyebab terseringnya yakni: ",a,a,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+493,80,"Gangguan jantung, seperti penyakit jantung bawaan, penyakit jantung koroner, kelainan katup jantung, aritmia, lemah jantung, gagal jantung ",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+494,80,"Gangguan pencernaan, seperti alergi makanan, gastroesophageal reflux disease ",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+495,80,"Gangguan psikis, seperti gangguan kecemasan umum, fobia spesifik, gangguan psikosomatis ",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+496,80,"Faktor lain, seperti hipertiroidisme, gangguan keseimbangan elektrolit, pengaruh obat, konsumsi kafein atau alkohol berlebihan, keracunan, dan sebagainya ",a,a,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+497,80,"Dengan kondisi Anda tersebut, lebih baik memang Anda periksa langsung ke dokter atau dokter penyakit dalam",a,a,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+498,80,"Lewat cara ini, barulah dokter bisa memberi Anda saran penanganan terbaik, termasuk dengan mengarahkan Anda untuk menjalani tes darah, rekam jantung, atau mungkin tes penunjang lainnya",a,a,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+499,80,"Sementara ini, yang bisa Anda lakukan ialah tidur lebih teratur 6-9 jam setiap hari, perbanyak relaksasi agar tidak terlalu stres atau cemas, rajin berolahraga setiap 2-3 hari sekali, jauhi kafein/ rokok/ alkohol, jangan juga dekati hal yang membuat Anda alergi, rajin makan buah serta sayur, dan jangan dulu sembarangan minum obat atau herba",a,a,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+500,80,Semoga membantu ya,a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+501,81,Alodok. Saya perempuan berusia 31 tahun. TB 160 cm BB 66 kg,q,b,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,81,2 minggu ini saya suntik vit c,q,b,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+503,81,"Pada minggu pertama, injeksi 1 suntik tidak pas, injeksi 2 berhasil masuk namun pada detik2 terakhir, pembuluh darah saya pecah sehingga terasa sakit sekali",q,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,81,"Pada minggu kedua, saya mengalami 5 injeksi dan semuanya tidak berhasil (setiap jarum masuk pembuluh darah pecah sehingga darah rembes di bawah kulit) karena pembuluh darah saya sulit diraba",q,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+505,81,Saya minta ditunda ke hari berikutnya,q,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,81,"Hari berikutnya injeksi 1, vitamin masuk sebagian, pembuluh darah saya pecah lagi, akhirnya pindah titik untuk menghabiskan sisa vitaminnya dan pada titik berikutnya pun di detik2 terakhir pembuluh darah saya pecah",q,b,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+507,81,"Dulu setiap ambil darah, saya selalu disarankan minum air putih yg bnyk karena darah saya kental (dan pembuluh darah saya sulit ditemukan) padahal intensitas minum saya sudah lebih dari 3 liter sehari",q,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+508,81,Yg ingin saya tanyakan apakah ini sesuatu yg perlu dikhawatirkan? ,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+509,81,Apakah ada cara selain minum air putih agar kedepannya pembuluh darah saya mudah ketemu? Terima kasih,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+510,82,"Alo, selamat malam",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+511,82, sebelumnya apa indikasi anda melakukan penyuntikan vitamin c? ,a,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+512,82,saran saya lakukan terapi terutama penyuntikan atau infus hanya sesuai indikasi dari dokter walaupun itu vitamin,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+513,82,untuk kondisi anda melakukan penyuntikan selalu gagal dimana mudah nya pecah pembuluh darah kondisi dapat disebabkan karena pembuluh daeau yang kecil atau tipis hal ini merupakan suatu bawaan struktur anatomis selain itu juga bisa diakibatkan karena mengalami kekuarangan cairan maka dipelrukan konsumsi air putih yang banyak,a,b,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+514,82,selain akibat tersebut bisa jadi akibat kurang trampilnya petugas dalam melakukan penyuntikan,a,b,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+515,82,untuk penyebabnya pembluh darah yang tipis saya kira tidak ada penyebab yang spesifik karena ini sudah bawaan dari struktur anatomis ,a,b,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+516,82,yang perlu anda lakukan adalah dengan mengubah pola gaya hidup yang sehat dengan konsumsi air putih yang cukup serta melakukan akitivitas fisik terutama yang melibatkan otot lengan bawah dengan sendirinya kemungkinan ukuran pembuluh darah akan bertambah,a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+517,82,selain itu jika tidak bisa dilakukan penyutikan maka bisa dilakukan tindakan alternatif lain dengan mengonsumsi obat atau vitamin melalui oral,a,b,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+518,82,semoga dapat membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+519,83,"Malam dok, sya mau bertanda, papa saya umur 63 thn",q,b,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,83,"sedang minum obat rifampicin, isoniazid, pyrazinamide, ethambutol hydrochloride sudah berjalan 8 hari",q,b,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+521,83,"setelah diminum kondisinya makin lemah, susah makan, mual, sesak nafas, sakit dada kalau batuk",q,b,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+522,83,Apa harus stop minum obatnya? Apa yang harus di buat dok? Mohon infonya,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+523,84,"Halo Davit, Obat-obatan yang dikonsumsi ayah anda adalah obat anti tuberkulosis (OAT)",a,b,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+524,84,"OAT memiliki beberapa efek samping yaitu: INH: Otot lemas, kesemutan, mual dan muntah",a,b,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+525,84,"Rifampisin: demam, menggigil, nyeri tulang, mual, muntah, nyeri perut, diare, tidak nafsu makan, gatal, hepatitis imbas obat, purpura, anemia, gagal ginjal, sesak napas, dan syok, serta menyebabkan warna merah pada urin, air mata, air liur, dan keringat",a,b,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+526,84,"Pirazinamid: hepatitis imbas obat, nyeri sendi, asam urat, demam, mual, kemerahan",a,b,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+527,84,Etambutol: gangguan penglihatan dan buta warna merah hijau,a,b,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+528,84,"Sreptomisin: kerusakan saraf keseimbangan dan pendengaran, demam, nyeri kepala, muntah, dan kemerahan pada kulit",a,b,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+529,84,OAT harus dikonsumsi sesuai anjuran dokter dan tidak boleh berhenti minum OAT sebelum selesai masa pengobatan,a,b,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+530,84,OAT dikonsumsi selama 6 bulan,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,84,Ada kemungkinan keluhan ayah anda merupakan efek samping OAT,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+532,84,Sebaiknya ayah anda melakukan kontrol dengan dokter yang merawat ayah anda agar dilakukan pemeriksaan lebih lanjut untuk mengetahui penyebab keluhan sehingga ayah anda dapat diberikan penanganan yang tepat,a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+533,84,"Berikut informasi yang dapat anda baca untuk menambah wawasan: Tuberkulosis / TB Terimakasih dan semoga membantu, dr Devika Y",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+534,85,Dok saya mau tanya,q,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,85,Saya pria 27th bb 93kg tggi 168 Saya melakukan medical check up saya divonis gangguan fungsi hati dan darah,q,b,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+536,85,Apa penyebab dan penanggulangannya dok,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+537,85,Juga agar cepat normal kembali Terima kasih,q,b,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+538,86,"Halo Aryawartana, Adakah kondisi yang membuat Anda merasa tidak nyaman selama ini ?        ",a,b,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+539,86,"  Dari data yang Anda berikan, saya telah menghitung indeks massa tubuh Anda dan hasilnya adalah obesitas (kegemukan)",a,b,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+540,86,Penting Anda ketahui bahwa obesitas merupakan berat badan berlebih akibat akumulasi lemak yang sangat tinggi dalam tubuh,a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+541,86,"Terkadang kegemukan dianggap sepele atau hanya masalah dalam kosmetik saja, namun sesungguhnya obesitas adalah ""modal"" untuk berkembangnya berbagai penyakit seperti diabetes mellitus, tekanan darah tinggi, aterosklerosis, dislipidemia, hingga penyakit jantung koroner",a,b,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+542,86,Semua penyakit tersebut terlihat saling berkaitan satu sama lain sehingga kemunculan salah satunya harus diwaspadai sebagai potensi munculnya penyakit lainnya,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+543,86,"Misalkan saja, akibat obesitas, lemak kolesterol jahat dalam darah Anda begitu tinggi sehingga lemak akan tersebut akan terakumulasi dan membentuk suatu plak dalam pembuluh darah",a,b,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+544,86,"Bila kemudian plak ini terlepas, maka ia akan mengalir bersama darah dan menyumbat pembuluh darah jantung yang begitu kecil, maka muncullah sindrom koroner akut (penyakit jantung koroner)",a,b,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+545,86,Di samping itu literatur menyebutkan bahwa obesitas dapat mempengaruhi kesuburan,a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+546,86,"Terkait gangguan hati dan juga darah yang disampaikan pada dokter Anda, sebaiknya Anda menanyakan lebih detail penyakit hati apakah yang dimaksudkan, begitu pula dengan penyakit darah",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+547,86,Kedua penyakit tersebut dapat saja akibat obesitas yang Anda alami,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+548,86,Akan lebih baik bila Anda langsung berkonsultasi kembali dengan membawa hasil med check up Anda,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+549,86,Pengobatan tentu sangat bergantung pada masalah klinis dan hasil lab Anda,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+550,86,"Bila lemak darah Anda tinggi, maka Anda akan mendapatkan obat-obatan seperti simvastatin/atorvastatin",a,b,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+551,86,Suplemen hati juga mungkin membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+552,86,Akan tetapi lebih baik diputuskan bersama dengan dokter Anda,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+553,86,"Penting bagi Anda menurunkan berat badan Anda untuk mencegah penyakit-penyakit yang tidak kita inginkan di kemudian hari, terlebih dengan usia Anda yang masih reproduktif",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+554,86,"Berikut hal-hal yang dapat Anda lakukan di rumah, yakni merubah life style dengan:  - mengurangi makanan berkalori tinggi (terutama lemak jahat), seperti junk food atau fast food dan hindari dalam jumlah/porsi yang besar  - berolahraga teratur minimun 30 menit sehari atau 150 menit dalam seminggu  - memperbanyak konsumsi buah dan sayuran  - mengonsumsi makanan dengan dengan kadar PUFA tinggi seperti alpokat, salmon, tuna, tauge karena PUFA merupakan lemak tak jenuh yang baik untuk tubuh ",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+555,86,Anda juga dapat membaca artikel berikut Obesitas,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+556,86," Sekian, semoga bermanfaat dr Yoni Cahyati",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+557,87,"selamat pagi dok, saya kemarin di periksa di rs kemudian ct scan,tes darah dan menunjukan adanya penyumbatan pembuluh darah ke otak,kolesterol saya normal , ",q,b,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+558,87,"tetapi saya di haruskan mengikuti kemoterapi di rs tersebut dok,,",q,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+559,87,apakah penyumbatan pembuluh darah harus dengan kemoterapi tahap penyembuhannya?? terimakasih :-),q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+560,88,Halo Mutia,a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+561,88,Terimakasih atas pertanyaan Anda,a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+562,88,"Perlu Anda ketahui sebelumnya bahwa penyebab paling tersering yang menimbulkan penyumbatan pembuluh darah adalah aterosklerosis, dimana penyumbatan terjadi akibat keruasakan dinding pembuluh darah",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+563,88,"Sedangkan penyebab dari aterosklerosis sendiri paling banyak dikarenakan hipertensi ( penyakit darah tinggi ), diabetes mellitus ( penyakit kencing manis ), kadar koleseterol yang tinggi dalam darah, merokok, dll",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+564,88,"Ciri - ciri atau gejala yang diakibatkan oleh karena penyumbatan pembuluh darah otak tergantung dari bagian otak mana yang tersumbat, sebagai contoh=== bila pada poembuluh darah yang mengatur fungsi penglihatan, maka akan menyebabkan gangguan penglihatan",a,b,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+565,88,Pengobatan dari penyumbatan pembuluh darah bisa dilakukan dengan cara pengonsumsian obat - obatan atau dengan cara operasi untuk menhilangkan penyumbatan,a,b,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+566,88,Cobalah tanyakan kembali hal ini dengan Dokter Anda agar segala sesuatunya terang dan jelas,a,b,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+567,88,"Demikian penjelasan yang dapat kami sampaikan, semoga bermanfaat. Salam, Dr Jati",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+568,89,"Assalamualaikum, saya tadi tes ecg dan dari hasil tes tsb diketahui adanya penyumbatan pada pemubuluh darah di janung",q,b,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+569,89,"Pertanyaan saya, apa penyebab penyumbatan pembuluh darah di jantung dan apakah pengobatannya harus dengan operasi atau bisa dengan pengobatan biasa saja?",q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+570,90,"Waalaikumsalam, selamat siang penyumbatan jantung terjadi pada pembuluh darah koroner yang berfungsi menyuplai oksigen ke otot-otot jantung",a,b,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+571,90,penyumbatan jantung umumnya disebbakan akibat adanya penumpukan plak pada dinding pembuluh darah jantung,a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+572,90,"timbunan plak ini dalam dunia medis disebut dengan aterosklerosisi yang terbentuk dari kolestrol, lemak, kalsium dan bahan pembekuan darah",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+573,90,"ada beberapa faktor resiko yang dapat menyebabkan terjadinya hal tersebut seperti memiliki riwayat penyakit jantung dalam keluarga, memiliki kadar kolestrol dan trigliserida tinggi, menghidap obesitas, tekanan darah tinggi, memiliki gaya hidup tidak sehat pengobatan dapat dilakukan sesuai dengan keparahan dan keberhasilan pengobatan bisa dengan konsumsi obat bisa pula dengan tindakan berupa pemasangan ring hingga operasi",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+574,90,jadi sebenarnya dengan obatan bisa yang diberikan dokter hanya saja seperti saya jelaskaana sebelumnya tergantung tingkat keparahan dan kebersihlan dalam pengobatan melalui oral,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+575,90,jadi konsultasikan lebih lanjut ke dokter jantung ya,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+576,90,semoga dapat membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+577,91,"selamat siang Dok, saya ingin bertanya",q,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+578,91,kondisi Om saya ( 65 th) saat ini sedang berada di ICUdengan ventilator dan tindakan penyedotan cairan sebuah RS di Jkt,q,b,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+579,91,Dia menderita diabet sejak usia 40 th,q,b,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+580,91,sudah pasang ring krn ada penyumbatan dipasang kira 6 tahun yang lalu,q,b,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+581,91,2 bln lalu dia mengeluh nafasnya lebih sesak,q,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+582,91,menurut dokter ada 2 kemungkinan ada sumbatan baru atau ring kotor,q,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+583,91,"lalu diberi obat untuk membersihkan ring, sdh diminum 2 bln tdk ada perbaikan",q,b,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+584,91,semakin sesak dan ngos2 an,q,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+585,91,malam minggu lalu terkena serangan jantung dan ternyata paru - parunya penuh cairan,q,b,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+586,91,saya ingin tanya kira - dengan kondisi begini tindakan apa saja yang dilakukan dan kemungkinan fungsi2 organ pentingnya? terima kasih infonya Dok,q,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,92,"Alo, terimakasih atas pertanyaannya",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+588,92,Sesak napas bisa terjadi karena banyak hal,a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+589,92,"Apabila menilik dari kondisi om Anda, yang memiliki riwayat diabetes, serangan jantung, dan sudah dipasangkan ring, maka mungkin penyebabnya adalah, Serangan jantung yang kambuh kembali, Diabetik ketoasidosis",a,b,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+590,92,"Faktor lain, misalnya: Gangguan pernapasan, seperti pneumonia, efusi paru, asma, bronkhitis",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+591,92,"Gangguan pencernaan, seperti gastritis, GERD, obstruksi usus",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+592,92,"Gangguan jantung lainnya, seperti lemah jantung, gagal jantung",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+593,92,"Alergi, Gangguan psikis, seperti gangguan kecemasan, gangguan psikosomatik",a,b,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+594,92,"Keterangan Anda yang menyebut bahwa om Anda kambuh serangan jantungnya dan mengalami penumpukan cairan di paru (pneumonia atau efusi pleura), selain bisa membuat beliau sesak, kedua kondisi ini juga sangat berisiko mencetuskan komplikasi yang berbahaya jika tidak segera ditangani",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+595,92,"Kondisi om Anda sepatutnya dipasrahkan penanganannya ke dokter penyakit dalam, dokter paru, atau dokter jantung yang merawat",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+596,92,"Tergantung kondisinya, nantinya penanganan yang diberikan bisa berbeda, bisa diberikan obat, dilakukan pemasangan ring kembali, disedot cairan di parunya, dan sebagainya",a,b,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+597,92,Semoga membantu ya,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+598,93,Halo dok,q,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+599,93,Saya mau tanya jika HR menunjukan angka 58 sampai 64 dan tekanan darah 97/57 bagaimana kondisinya?,q,b,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+600,94,"Alo, terimakasih atas pertanyaannya",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+601,94,Frekuensi detak jantung yang normal ialah berkisar antara 60 hingga 100 kali permenit,a,b,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+602,94,"Sedangkan, tekanan darah normalnya ialah berkisar antara 90/60 hingga 120/80 mmHg",a,b,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+603,94,"Merujuk pada kondisi yang Anda sebutkan, agaknya hal ini bisa jadi merupakan variasi detak jantung dan tekanan darah yang wajar, misalnya karena dipengaruhi oleh usia, waktu pengukuran, aktifitas yang sedang dijalani, atau juga pengaruh pengobatan tertentu",a,b,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+604,94,"Akan tetapi, bisa jadi juga kondisi ini menandakan suatu penyakit, misalnya: Gangguan jantung, seperti serangan jantung, penyakit jantung bawaan, miokarditis, kardiomiopati",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+605,94,"Gangguan keseimbangan elektrolit, utamanya kalium dan kalsium",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,94,"Gangguan hormon, misalnya hipotiroidisme, diabetes",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,94,"Faktor lain, seperti gangguan peradangan, apnea tidur obstruktif, anemia, kebiasaan merokok, alkoholisme, stres atau cemas berlebihan, dan sebagainya",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+608,94,"Jika Anda mendapati penderita dengan kondisi demikian, baiknya Anda mendampinginya periksa ke dokter atau dokter penyakit dalam agar ditangani dengan baik",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+609,94,"Tergantung hasil penilaian dokter, penanganan yang diberikan nantinya bisa berbeda",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+610,94,"Kemungkinan besar, untuk menentukan tatalaksana yang tepat, dokter akan mengarahkan orang tersebut untuk menjalani dulu pemeriksaan darah, rekam jantung, atau tes penunjang lainnya",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+611,94,Semoga membantu ya,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+612,95,"Halo dok, ayah saya denyut jantungnya kurang dari 60bpm dan kadangkala merasa pusing, pandangan buram, dan rasa ingin pingsan",q,b,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+613,95,Bagaimanakah cara menanganinya ya dok?,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+614,96,"Alo, selamat dore detak jantung orang dewasa saat berisitirahat berkisar 60-100 kali per menit",a,b,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+615,96,"dimana banyak faktor yang dapat mempengaruhi laju detak jantung normal seperti aktivitas yang dilakukan, tingkat kebugaran, suhu udara, efek samping obat-obatan, emosi dan ukuran tubuh",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+616,96,detak jantung dibawah kisaran normal atau dibawha 60 kali per menit dalam dunia medis disebut dengan bradikardi,a,b,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+617,96,bradikardi merupakan suatu kondisi jantung berdetak lebih lambat dari biasanya,a,b,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+618,96,"kondisi ini dikatakan normal jika kondisi tersebut terjadi pada orang yang sedang tidur, remaja atau atlet",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+619,96,namun jika disertai gejala seperti pusing maka kondisi ini bisa diakibatkan adanya gangguan pada aktivitas listri jantung,a,b,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+620,96,"penyebabnya dari gangguan ini dapat berbeda-beda setiap orang diantaranya akibat : kerusakan jaringan jantung akibat pertambahan usia, serangan jantung, ketidakseimbangan elektrolit dalam darah, efek akibat konsumsi obat-obatan, stres dan gangguan kecemasan",a,b,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+621,96,"detak jantung yang melambat akan menimbulkan gangguan pada organ dan jaringan tubuh akibat tidak mendapat pasokan darah yang cukup, nah ketika pasokan darah ke organ dan jaringan tubuh terganggu maka akan timbul gejala pusing, lemas hingga pingsan",a,b,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+622,96,"saran saya jika sudah menimbulkan gejal sebaiknya untuk segera menemui dokter secara langsung agar dilakukan pemeriksaan lebih lanjut dan penangnan sedini mungkin, agar komplikasi dapat dicegah",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+623,96,untuk pengobatannya harus disesuai kan dengan penyebab yang mendasari dan tingkat keparahannya,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+624,96,"jadi harus menemui dokter secara langsung agar dilakukan berbagai pemeriksaan seperti proses tanya jawab, pemeriksaan fisik hingga pemeriksaan tambahan seperti rekam jantung dan cek darah serta lainnya jika diperlukan dengan begitu dapat diberikan penangnan sesuai penyebab yang mendasari",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+625,96,"selain itu untuk dirumah saya saranakn agar kelola rasa stres, konsumsi makanan yang bergizi seimbang dan rendah garam",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+626,96,demikian info yang bisa saya berikan,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+627,97,"Malam dok, akhir² ini dada kiri sy sering kekancing dn susah bgt buat nafas, ",q,b,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+628,97,kira² itu penyebabnya apa yaa :( makasih dok,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+629,98,Alo Terimakasih sudah mengajukan pertanyaan pada Alodokter,a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+630,98,Keluhan nyeri dada sebelah kiri disebabkan oleh berbagai hal,a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+631,98,Penyebab perlu diketahui untuk menghindari komplikasi lebih lanjut,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,98,"Beberapa hal yang mungkin menjadi penyebab nyeri dada kiri yaitu: Serangan jantung,  GERD (gastro-esophageal reflux disease), Angina, Masalah pada paru-paru (pneumonia, pleuritis), Cedera pada dada(otot tertarik, saraf tertekan, tulang dada/ rusuk retak, memar di dada), Gangguan mental (gangguan psikosomatik,stres)",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+633,98,"Perlunya pemeriksaan fisik pada lokasi dada, suara paru-paru dan suara jatung",a,b,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+634,98,"Diperlukan juga informasi terkait keluhan saat ini, kapan pertama kali muncul, seberapa sering terjadi, pemicu keluhan, masalah psikologis yang mungkin dimiliki, riwayat aktivitas harian/ olahraga, riwayat penyakit serta pengobatan yang pernah/sedang dijalani",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+635,98,Pemeriksaan penunjang seperti foto rontgen dada dan rekam jantung (EKG) mungkin diperlukan,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+636,98,Penanganan tergantung dari penyebab,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+637,98,"Maka dari itu, anda sebaiknya segera memeriksakan diri ke IGD terdekat untuk mendapatkan penanganan segera dan tepat dari dokter sehingga dapat terhindar dari komplikasi yang tidak diharapkan",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+638,98,Sementara hal-hal yang dapat anda lakukan adalah: ,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+639,98,Istirahat cukup dan menghindari aktivitas berlebih sehingga terhindar dari kelelahan,a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+640,98,Makan makanan dengan pola gizi seimbang,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+641,98,Memenuhi kebutuhan cairan sekitar 8 gelas per hari agar tubuh terhidrasi,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+642,98,Mengelola stres dengan baik,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+643,98,"Tetap menjaga protokol kesehatan seperti menjaga jarak, menghindari kerumunan, mencuci tangan dan memakai masker",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+644,98,Demikian informasi yang dapat saya berikan. Semoga membantu menjawab pertanyaan anda. Salam,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+645,99,Dok kalau kulit dada diraba terasa agak tidak peka dan terasa tebal seperti ada yang melapisi ,q,b,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+646,99,itu gejala apa ya dok?,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+647,100,"Alo MR, Terima kasih atas pertanyaannya untuk Alodokter",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+648,100,"Rasa kebas terutama pada dada kiri dapat disebabkan oleh beberapa hal yaitu gangguan penyumbatan pembuluh darah jantung, gangguan pada otot dada, gangguan paru, gangguan tulang, peningkatan asam lambung, dan stres",a,b,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+649,100,"Pada gangguan penyumbatan pembuluh darah jantung atau serangan jantung, gejalanya akan meliputi nyeri dada kiri yang menjalar hingga leher, ketiak, dan lengan kiri, serta memberat saat aktivitas",a,b,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+650,100,"Jika memang keluhan disebabkan oleh gangguan pada otot atau tulang,keluhannya akan berupa rasa kebas pada dada yang disertai nyeri ketika menggerakkan lengan atau perubahan posisi yang menyebabkan otot dan tulang dada tertarik",a,b,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+651,100,"Sedangkan, pada kondisi stres keluhan akan disertai sesak dan linu di dada",a,b,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,100,"Pada penyakit paru, keluhannya akan disertai sesak napas, napas yang tidak lega, nyeri dada ketika menarik napas, dan dapat disertai keluhan seperti demam, batuk, atau napas bunyi",a,b,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,100,Dan yang terkahir adalah dapat disebabkan oleh peningkatan asam lambung yang disertai panas di dada dan naiknya cairan lambung ke kerongkongan,a,b,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+654,100,"Untuk mengetahui lebih pasti kondisi anda, sebaiknya memeriksakan diri ke dokter, dimana nantinya akan dilakukan pemeriksaan fisik maupun lanjutan seperti EKG (rekam jantung) atau rontgen dada jika diperlukan",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,100,"Demikian informasi yang dapat disampaikan, semoga bermanfaat. Terima kasih",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+656,101,"Selamat siang dok, mohon bantuannya, Jadi beberapa hari ini, tiba-tiba dada saya terasa seperti tertekan sehingga nafas tidak plong, mules, terkadang juga kedinginan",q,b,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+657,101,Tapi kalau dibawa nonton atau maen game rasa tertekan didada itu hilang,q,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+658,101,Kalau saya minum obat maag mulesnya hilang dok,q,b,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+659,101,"Saya jadinya bingung, ada apa dg kesehatan saya",q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+660,102,Terima kasih atas pertanyaannya di Alodokter,a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+661,102,Penyebab keluhan yang Anda sampaikan tidak bisa ditentukan tanpa melalui pemeriksaan secara langsung,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,102,"Beberapa kemungkinan penyebab keluhan-keluhan tersebut: Gastroesophageal reflux disease (GERD)merupakan penyakit yang terjadi akibat kebiasaanmakan makanan pedas, makan makanan asam, dan langsung berbaring setelah makan (tidak menunggu 3 jam)",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+663,102,Kebiasaan ini membuat otot pembatas antara kerongkongan (esofagus) dan lambung menjadi lemah dan akhirnya membuat asam lambung bisa naik ke kerongkongan,a,b,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+664,102,"Kenaikan asam lambung menimbulkan gejala-gejala, seperti dada terasa panas, sesak, dan mual",a,b,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+665,102,"Gangguan somatoform, yaitu suatu gangguan kejiwaan di mana penderitanya merasa mengalami penyakit tetapi dari pemeriksaan dokter dan juga pemeriksaan penunjang tidak terbukti adanya penyakit",a,b,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,0,0
+666,102,"Serangan jantung, gejalanya berupa nyeri dada seperti tertekan yang menjalar hingga ke leher, rahang, lengan, atau ke punggung",a,b,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+667,102,Hal ini merupakan kondisi yang membutuhkan penanganan segera,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+668,102,Penyakit lain,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+669,102,Untuk memastikannya sebaiknya Anda memeriksakan diri ke dokter secara langsung,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+670,102,"Makan secara terjadwal, hindari makanan pedas dan asam",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+671,102,Semoga membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+672,103,"tolong dok saya takut :') ,saya mau nanya tadi saya terkena serangan penyakit jantung serasa berat dan berdetak kencang, dan tangan saya kaku bener2 kaku gabisa digerakin kaya ketarik kenceng, ",q,b,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+673,103,"menurut saya penyakit saya jauh dari kata penyakit kesemutan dok, yang saya takutin dan saya rasain itu penyakit kaya stroke/kejang ringan, mohon dijawab tolong dok saya takut :')",q,b,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+674,104,"Alo, terimakasih atas pertanyaannya",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+675,104,"Dada yang terasa berat, berdebar kencang, hingga tangan kaku bagai tertarik sesungguhnya tidak khas disebabkan oleh kejang atau stroke",a,b,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+676,104,"Lebih umum, keluhan seperti ini muncul karena: Gangguan keseimbangan elektrolit, terutama kalium, natrium, dan kalsium ",a,b,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+677,104,"Dispepsia (peningkatan asam lambung), contohnya akibat gastroesophageal reflux disease, gastritis, tukak lambung ",a,b,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+678,104,"Gangguan jantung, seperti penyakit jantung koroner, gangguan irama jantung, kelainan katup jantung",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+679,104,"Faktor lain, seperti hipertiroidisme, infeksi virus atau bakteri, gangguan kecemasan, anemia, kelelahan fisik, syaraf kejepit, efek samping obat, alergi, rheumatoid arthritis, dan sebagainya ",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,104,Kondisi seperti ini sepatutnya jangan dulu dicemaskan berlebihan,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+681,104,"Agar membaik, cobalah Anda perbanyak dulu beristirahat,",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+682,104," kompres hangat dada dan tangan Anda yang terasa tidak nyaman, ",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+683,104,"longgarkan pakaian Anda, atur napas Anda dengan baik, minum banyak air putih, makanlah yang teratur variasi makanan bergizi seimbang, jauhi rokok dan alkohol, tidak dulu mengkonsumsi minuman berkafein dan beralkohol, tidak sembarangan minum obat atau herba, dan disiplinlah menjalani pola hidup sehat",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+684,104,"Apabila langkah di atas masih belum bisa mengatasi keluhan Anda, lebih aman Anda periksa langsung sajalah ke dokter atau dokter penyakit dalam terdekat ya",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+685,104,Semoga membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+686,105,"dok saya dulu pernah disuruh cek ekg, memang seperti tdk beraturan dan dapt obat isodripone kalo tdk salah ,",q,b,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+687,105,namun setelah rongten saya ada penyakit TB paru dan TB kelenjar,q,b,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+688,105,saya menjalani minum obat merah sy mengalamin keracunan hati dan sempat dirawat,q,b,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+689,105,nah saat ini sakit di dada itu kambuh dok seperti tarik nafas sedikit dan sakit pada punggung kiri dan dibawah rusuk kiri seperti nyeri sekali dan juga lengan kiri seperti pegal,q,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+690,105,pertanyaan saya apa saya boleh minum obat isodripone itu dok??,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+691,106,"Alo, terimakasih atas pertanyaannya",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+692,106,"Nyeri dada hingga terasa ke punggung dan lengan kiri bisa terjadi karena beragam faktor, seperti ",a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+693,106,"serangan jantung, gangguan katup atau irama jantung, endokarditis, lemah jantung, gastritis, gastroesophageal reflux disease, kram otot, syaraf kejepit, gangguan kecemasan, gangguan psikosomatis, radang sendi, pleuritis, bronkhitis, pneumonia, dan sebagainya",a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+694,106,"Kondisi Anda yang pernah mengalami tuberkulosis dan gangguan jantung (yang dievaluasi lewat EKG) bisa jadi berkaitan dengan keluhan Anda saat ini, bisa juga tidak",a,b,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+695,106,"Tanpa memeriksa Anda langsung, tentu bukan wewenang kami menentukan apakah pengobatan yang tepat untuk Anda jalani kini",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,106,"Baiknya, sebelum meminum obat apapun, Anda periksalah dulu ke dokter atau dokter penyakit dalam terdekat ya",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+697,106,"Sementara ini, penanganan awal yang bisa dilakukan yakni: Kompres hangat dada, punggung, dan lengan yang nyeri dengan air hangat",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+698,106,"Perbanyak istirahat, jangan panik, atur napas dengan baik",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+699,106,"Makanlah porsi kecil-kecil tapi sering, namun jangan yang terlalu pedas, mengandung banyak gas, apalagi berkafein",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+700,106,Rutin berolahraga dan jaga berat badan ideal,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+701,106,Jangan merokok,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+702,106,Semoga membantuya,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+703,107,"Halo dok , sudah lima hari sejak ayah saya terkena serangan jantung dan sudah tiga hari dirawat di rumah sakit",q,b,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+704,107,"Saat ini sudah diperbolehkan pulang tetapi saat pagi maupun sore hari gejala awal serangan jantung ayah saya timbul yaitu tangan kanan kebas , menjalar hingga punggung , rahang terasa sakit , dada ayah saya pun juga terasa nyeri walaupun tidak se-nyeri serangan jantung pertama dan Alhamdulillah sudah reda kembali",q,b,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+705,107,Bagaimana tindakan yang perlu saya lakukan apabila gejala tersebut timbul kembali dok? Saya sangat khawatir dan cemas takut ayah saya terkena serangan jantung lagi,q,b,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+706,107,"Selain itu ayah saya juga terkena asam urat, kedua kakinya membengkak",q,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+707,108,"alo terima kasih sudah bertanya kepada alodokter, saya dr AInul ",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+708,108,serangan jantung atau penyakit jantung koroner terjadi ketika terdapat salah satu bagian atau otot jantung yang mengalami kekurangan asupan darah,a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+709,108,kekurangan asupan darah ini dapat disebabkan oleh penyembuatan pada pembuluh darah arteri karena adanya tumpukan lemak atau arterosklrosis,a,b,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+710,108,"serangan jantung ini dapat dipicu faktor paparan asap rokok, makanan tinggi lemak kolesterol, kegemukan, stres, menderita kencing manis dan jarang melakukan olahraga",a,b,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+711,108,"Gejala dapat berupa nyeri dada seperti ditekan benda berat disertai penjalaran nyeri ke leher, bahu, lengan atau punggung, dapat juga diserati keringat dingin mual dan muntah",a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+712,108,untuk menegakkan diagnosa serangan jantung dapat dilakukan wawancara pemeriksaan fisik dan bahkan pemeriksaan penunjang seperti rekam jantung,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+713,108,Jika mengalami keluhan serangan jantung seperti diatas maka segera ke UGD rumah sakit terdekat,a,b,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+714,108,"pengobatan dapat dilakukan dengan pemberian peread nyeri, obat pengecer darah untuk mencegah terjadinya bekuan darah, obat penghancur bekuan darah, dan lain lain",a,b,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+715,108,"secara umum gejala akan tetap ada jika kebutuhan oksigen tubuh masih meningkat, karena masih dalam fase penyembuhan",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+716,108,pada saat pulang dari rumah sakit obat pereda nyeri dan obat lainnya sebaiknya dikonsumsi secara rutin,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+717,108,"selain itu hindari paparan asap rokok, hindari aktivitas berlebihan, lakukan aktivitas secara bertahap, makan makanan yang sehat dan bergizi seimbang,batasi asupan makanan berlemak",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+718,108,Jika muncul serangan atau nyeri sebaiknya duduk atau berbaring,a,b,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+719,108,Secara umum nyeri dapat muncul ketika melakukan aktivitas fisik,a,b,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+720,108,Rutin melakukan pengobatan dan kontrol ke RS meskipun sudah sembuh,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+721,108,semoga membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+722,109,Pagi dok,q,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+723,109,Dok saya sedang hamil 6 bln,q,b,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+724,109,kemarin saya pulang kerja kehujanan,q,b,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+725,109,malm nya kenapa dda saya sesak sakit serasa terbakar tembus ke punggung dan bahu s terasa panas sampy ke tangan d sertai keluar keringat d telspak kaki dan tangan juga sakit kepala,q,b,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+726,109,Mohon penjelasan nya dok saya sakit apa,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+727,109,terus apa bisa berpengaruh pada janin saya,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+728,109,Terimakasih sebelum nya,q,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+729,110,"Alo, terimakasih atas pertanyaannya",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+730,110,"Dada nyeri, sesak, panas, hingga terasa tidak nyaman ke punggung dan bahu, disertai berkeringat berlebih dan nyeri kepala saat hamil bisa jadi berbahaya, bisa juga tidak",a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+731,110,"Keluhan Anda ini bisa muncul karena beraga pencetus, contohnya gastroesophageal reflux disease (GERD), serangan jantung, gastritis, kardiomiopati, pleuritis, bronkhitis, pneumonia, asma, COVID-19, tukak lambung, ISPA, gangguan katup atau irama jantung, batu atau radang empedu, pankreatitis, skoliosis, syaraf kejepit, rheumatoid arthritis, gangguan cemas berlebih, infeksi virus atau bakteri, gangguan somatoform, dan sebagainya",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+732,110,"Jika ingin memastikan penyebab keluhan Anda, idealnya Anda perlu periksa langsung ke dokter atau dokter kandungan",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+733,110,"Biasanya, cukup dengan wawancara dan pemeriksaan fisik, dokter sudah tahu langkah penanganan terbaik yang perlu dilakukan guna mengatasi kondisi Anda",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+734,110,"Namun jika perlu, bisa juga nantinya Anda dianjurkan untuk menjalani pemeriksaan lanjutan, semisal cek darah, rekam jantung, dan sebagainya",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+735,110,"Sementara ini, yang sebaiknya Anda lakukan ialah: Banyak beristirahat Kompres hangat dada, punggung, dan bahu Anda yang tidak nyaman Jangan berpikiran yang tidak-tidak, tenangkan hati Anda Kurangi dulu kegiatan fisik yang terlalu melelahkan Kenakan pakaian yang nyaman Hindari hal-hal yang membuat Anda alergi Makan yang teratur, porsi kecil namun sering Kurangi mengkonsumsi makanan pedas, bergas, minuman bersoda, dan berkafein selama dada Anda masih sesak Jangan langsung berbaring jika habis makan ",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+736,110,Semoga membantu ya,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+737,111,"Dok, saya mau bertanya, bapak saya kemarin senin baru saja melaksanakan operasi by pass jantung, sekarang sudah berada di ruang intermediate",q,b,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+738,111,Lalu tadi pagi kata susternya sempat anfal,q,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+739,111,Apa penyebabnya dan bagaimana cara mencegah hal tsb terulang kembali? Apa yang harus dilakukan pasien agar proses pemulihan lebih cepat? Terima kasih dok Mohon infonya 🙏,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+740,112,"Alo Harry, terima kasih ya sudah bertanya di Alodokter",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+741,112,"Berdasarkan data yang ada hingga saat ini, kemungkinana untuk terjadinya kembali serangan jantung pasca operasi bypass jantung terutama pada 1 tahun pertama memang berisiko untuk terjadi yang mana hal ini seringkali berhubungan dengan : jenis kelamin (perempuan kebih berisiko) riwayat serangan jantung sebelum operasi dilakukan merokok usia muda Namun untuk mekanisme terjadinya sendiri sampai saat ini masih belum benar-benar jelas",a,b,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+742,112,"Untuk mencegah terjadinya serangan berulang, selama masih dilakukan perawatan di rumah sakit dalam pengawasan dokter sudah pasti diminimalisir sedapat mungkin serta apa saja yang sebaiknya dilakukan oleh pasien sudah diarahkan",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+743,112,"Untuk selanjutnya setelah pulang dari perawatan untuk mencegah serangan berulang sangat penting untuk melakukan olahraga rutin (dengan jenis sesuai arahan dokter), menjaga berat badan agar selalu ideal, menghindari konsumsi makanan yang tinggi akan lemak jenuh, garam dan gula, menghindari rokok dan minuman beralkohol serta menghindari stres berlebih",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+744,112,Semoga membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+745,113,"Dok,kmrim2 dada saya berdebar kencang ,lemas,dan berkunang2 sehabis kaget",q,b,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+746,113,apakah sy terkena serangan jantung??dan jantung suka terasa terhentak tiba2,q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+747,114,"Selamat malam, terima kasih telah bertanya di Alodokter",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+748,114,Kondisi serangan jantung terjadi ketika aliran darah menuju otot jantung terganggu,a,b,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+749,114,"Gangguan ini bisa disebabkan oleh penumpukan lemak pada pembuluh darah, penyalah gunaan obat-obatan terlarang, dan keracunan",a,b,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+750,114,"Gejala dari serangan jantung meliputi nyeri terutama pada dada bagian kiri dengan sensasi seperti tertekan atau tertindih, nyeri menjalar ke area leher, rahang, lengan atau punggung, sesak napas, pusing, hingga penurunan kesadaran",a,b,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+751,114,Kondisi ini juga merupakan suatu kegawat daruratan medis,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+752,114,"Dari pemahaman tersebut, kemungkinan besar apa yang Anda alami beberapa waktu lalu bukanlah serangan jantung",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,114,"Hal ini karena yang Anda alami penyebabnya jelas, yakni karena Anda kaget, dimana jantung berdebar kencang, lemas dan berkunang-kunang merupakan suatu kondisi medis yang wajar ditemui pada orang yang sedemikian kaget dan takutnya",a,b,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+754,114,"Selain itu, jika Anda bukan merupakan seorang lansia, atau setidaknya berusia 55 tahun ke atas, tidak mengalami kolesterol tinggi, tekanan darah tinggi, atau obesitas, kecenderungan Anda untuk terkena serangan jantung lebih kecil",a,b,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+755,114,Gejala yang Anda alami pun tidak seberat penderita serangan jantung,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,114,"Intinya, dari cerita Anda kami belum menangkap adanya kecenderungan ke arah serangan jantung",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+757,114,Gejala yang Anda rasakan lebih mengarah ke respon normal tubuh ketika kaget,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+758,114,"Adapun Anda merasa sering terhentak tiba-tiba, ini perlu dikaji lebih lanjut, apa yang Anda maksud dengan terhentak, pada situasi seperti apa, seberapa sering, ada tidaknya gejala lain, dan bagaimana hasil dari rekam jantungnya",a,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+759,114,"Maka terkait keluhan tersebut, jika Anda memang merasa terganggu atau khawatir, lebih baik konsultasikan ke dokter jantung atau boleh ke dokter umum terlebih dahulu",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+760,114,"Sekian, semoga menjawab pertanyaan Anda",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+761,115,"halo dok, selamat sore, izin bertanya, bapak saya tiba2 merasa sesak napas, dan dada sakit",q,b,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,115,"itu pernah dialami 6bulan belakangan ini, udh sembuh, tp skrg kumat lagi,diduga itu serangan jantung dok",q,b,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+763,115,"saya sbg anak sedih melihat orang tua sakit, untuk mengatasi itu semua gimana ya dok? makanan, minuman, serta obat apa yg harus dikonsumsi? terimakasih dok",q,b,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+764,116,Alo putri terima kasih sudah bertanya kepada Alodokter,a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+765,116, serangan jantung merupakan suatu kondisi dimana aliran darah menujuh jantung tersumbat,a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+766,116,"dimana serangan jantung merupakan kondisi gawat darurat yang perlu penangan segera, maka segera kenali gejalanya seperti nyeri dada, sesak nafas, denyut jantung cepat dan tidak beraturan, keringat dingin serta tubuh terasa lemas dan pusing",a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+767,116,namun terkadang tidak menimbulkan gejala dan langsung mengalami henti jantung,a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+768,116,dimana penybab utama serangan jantung adalah penyakit jantung koroner,a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+769,116,"serta daa beberapa faktor pemicunya seperti berusia lanjut, memiliki penyakit hipertensi dan diabetes, kelurga yang memiliki riwayat serangan jantung, kegemukan, merokok, menderita kolestrol yang tinggi",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+770,116,"bila terjadinya gejala serangan jantung maka segera membawa ke UGD terdekat agar mendapatkan penolongan segera, serta biasanya dokter akan melakukan pemeriksaan lebih lanjut sepert EKG (rekam jantung), USG jantung, foto rongen dll",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+771,116,dengan begitu terdeteksi kemungkinan penyebabnya,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+772,116,"nah untuk pencegahan saran saya sebaiknya bila bapak anda memiliki penyakit darah tinggi dan gula serta kolestrol maka diobatai dan dipantau rutin ya, dikontrol ulang",a,b,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+773,116,"serta hindari rokok, hindari stres, hindari makanan yang tinggi garam , makanan tinggi gula dan tinggi lemak, minuman alkohol dan kafein sebaiknya dihindari",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+774,116,rutin melakukan olaharaga setidaknya 30 menit selama 5 hari dalam seminggu,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+775,116,hindari sters,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+776,116,konsumsilah makanan yang tinggi serat dan lemak tak jenuh,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+777,116,demikian info yang bisa saya berikan terima kasih,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+778,117,Wanita di usia 20 thn apakan sudah bisah di katakan terkena serangan jantung?,q,b,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+779,118,"Alo, terimakasih atas pertanyaannya",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+780,118,"Serangan jantung adalah suatu kondisi dimana aliran darah koroner, yang mensuplai otot jantung, menyempit atau tersumbat",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+781,118,"Kondisi ini bisa membuat jantung tidak bisa berfungsi dengan baik, lantas timbullah rasa tidak nyaman dominan di dada sebelah kiri, yang bisa menjalar hingga ke leher, rahang, dan lengan kiri",a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+782,118,"Rasa tidak nyaman ini khasnya muncul bagaikan ditekan benda berat, tidak tajam di 1 titik, memberat dengan aktifitas, membaik dengan istirahat, dan kerap muncul disertai mual, keringat dingin, lemas, pandangan kabur, pusing, bahkan penurunan kesadaran",a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+783,118,"Secara epidemiologi, risiko terjadinya serangan jantung akan meningkat seiring dengan pertambahan usia",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+784,118,"Sebelumnya, serangan jantung lebih umum ditemukan pada orang yang berusia 35 tahun ke atas",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+785,118,"Namun semakin kesini, onset terjadinya serangan jantung semakin muda, bahkan ada yang usianya masih berkisar 20 tahun",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+786,118,"Jadi, jawaban atas pertanyaan Anda bisa saja ya, bisa juga tidak",a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+787,118,"Patut dipahami, diagnosis serangan jantung tidak cukup ditilik hanya dari gejala klinis yang muncul saja, melainkan harus juga dikonfirmasi dengan pemeriksaan langsung oleh dokter, bahkan juga beberapa tes penunjang lainnya, seperti rekam jantung, rontgen, dan tes darah",a,b,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+788,118,"Sebab itu, jika mendapati gejala mirip serangan jantung, baiknya diperiksakan SEGERA saja ke dokter atau dokter penyakit dalam agar ditangani dengan baik sesuai penyebabnya ya",a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+789,118,Semoga membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+790,119,"Halo dok saya ada keluhan dingin di belakang leher dan dada tpi tidak sesak, itu gejala penyakit apa ya dok?",q,b,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+791,120,"Alo, terimakasih atas pertanyaannya",a,b,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+792,120,Berkeringat dingin di belakang leher dan dada bisa disebabkan oleh beragam pencetus ,a,b,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+793,120,"contohnya: Infeksi virus atau bakteri, Stres, cemas, atau panik berlebihan, Gangguan jantung, seperti serangan jantung, gagal jantung",a,b,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+794,120,"Faktor lain, seperti anemia, hipotensi, hipoglikemia, hipertiroidisme, keganasan, gangguan hormon, efek samping pengobatan, dispepsia, migrain, vertigo, syok, menahan nyeri, dan sebagainya Jika tidak muncul keluhan yang berat, seperti sesak, lemas, pandangan gelap, demam, muntah, dan sebagainya, ",a,b,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+795,120,sebaiknya Anda tidak dulu panik menyikapi kondisi ini,a,b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+796,120,"Agar membaik, coba Anda tidur lebih awal dan lebih teratur, minum lebih banyak, makan porsi kecil-kecil tapi sering, hindari hal-hal yang membuat Anda alergi, kenakan pakaian yang nyaman, tidak cemas atau stres berlebihan, perbanyak relaksasi, jauhi rokok dan alkohol, teratur berolahraga, perbaiki sirkulasi udara di lingkungan tempat Anda tinggal, dan jangan sembarangan minum obat tanpa saran dokter",a,b,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+797,120,"Sebaliknya, bila Anda merasa keluhan Anda amatlah berat, baiknya Anda pergi periksa langsung ke dokter atau dokter penyakit dalam agar dievaluasi dan ditangani dengan baik sesuai penyebabnya ya",a,b,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+798,120,Semoga membantu,a,b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
