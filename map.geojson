@@ -1,1 +1,23 @@
-{"type":"FeatureCollection","features":[]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [95.293026, 5.479820],
+            [141.000210, 5.479820],
+            [141.000210, -10.359987],
+            [95.293026, -10.359987],
+            [95.293026, 5.479820]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Indonesia"
+      }
+    }
+  ]
+}
